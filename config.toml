@@ -1,0 +1,156 @@
+layoutdir = "themes/hugo-academic-group/layouts"
+publishdir = "public"
+static = "/static"
+builddrafts = false
+# Replace this with your website URL
+baseurl = ""
+canonifyurls = true
+theme = "hugo-academic-group"
+title = "Bramley Computational Cognitive Science Lab"
+math = true
+copyright = "&copy; Neil Bramley, 2018 "
+
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[params]
+  description = "Computational Cognitive Science Group"
+  author = "Neil Bramley"
+  email = "bramleylab@gmail.com"
+  address = "Room 613, 60 5th Ave., New York, NY"
+  
+  custom_css = ["bramleycustom.css"]
+
+  slogan = "Bramley Lab"
+  slogan_text = "Computational Cognitive Science Group at the University of Edinburgh"
+
+  [[params.slogan_columns]]
+    title = "About"
+    text =  "Bramley Lab is a brand new computational cognitive science focused lab, based in the [Psychology department](https://www.ed.ac.uk/ppls/psychology) at the [University of Edinburgh](www.ed.ac.uk) and affiliated with the [Informatics Forum](https://www.ed.ac.uk/informatics/).  We welcome prospective PhD students, PostDocs and study participants."
+    link = "https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme"
+    link_text = "Apply to do a PhD in the lab!"
+    weight = 1
+  
+  [[params.slogan_columns]]
+    title = "Mission"
+    text = "We are interested in understanding how human minds learn about the world, how they represent and use what they learn.  In particular, we focus on [*active learning*](pdfs/bramley2018physics.pdf) (how people gather information from the world), [*causality*](pdfs/bramley2017neurath.pdf) (how they represent the world's dynamics), [*discovery*](pdfs/bramley2018zendo.pdf) (how people generate new ideas, concepts and theories), and [*control*](pdfs/davis2018control.pdf) (how people utilise their causal knowledge to achieve their goals)."
+    #Much of the lab's research focuses on how people learn about causal structure and how they gather new information during extended interactions with their environment.    The lab is run by Neil Bramley.  I am a new lecturer in Cognitive Psychology at the University of Edinburgh.  Previously a Moore-Sloan Data Science Environment postdoc at New York University. In my personal line of research, I use interactive experiments and games combined with computational modelling to study how people learn, represent, and reason about the world."
+    link = "https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme"
+    link_text = "More about our research"
+    weight = 2
+
+  [[params.slogan_columns]]
+    title = "Approach"
+    text = "We take a computational approach to studying human cognition.  We sometimes collect behavioural data by running experiments in the lab, but often collect large behavioural datasets online using [psiTurk](https://psiturk.org/) and websites like [Amazon mechanical Turk](https://www.mturk.com/) and [Prolific Academic](https://prolific.ac/).  We build and compare computational models and simulations against human data to reverse engineer human intelligence."
+    link = "/demo/all"
+    link_text = "Try past experiments"
+    weight = 3
+
+  # Selected Publications section. (NB: Don't feel like this is used??)
+  [params.publications_selected]
+    detailed_list = true
+    title = "Selected Publications"
+    subtitle = ""
+
+  # Lab members section
+  [params.members]
+    title = "Lab members"
+
+#  [params.demos]
+#    title = "Demos"
+
+
+
+
+  # Publications section.
+  # Section will only be displayed if there are publications in `content/publication/`.
+  [params.publications]
+    count = 7
+    detailed_list = false
+    title = "Publications"
+    subtitle = ""
+    str_all = "All Publications"
+
+  # Posts section.
+  # Section will only be displayed if there are posts in `content/post/`.
+  [params.posts]
+    count = 2
+    title = "Blog"
+    subtitle = ""
+    str_all = "More Posts"
+    str_read_more = "Read more"
+
+  # Projects section.
+  # Section will only be displayed if there are projects in `content/project/`.
+  [params.projects]
+    title = "Projects"
+    subtitle = ""
+    count = 3
+    str_all = "More Projects"
+  
+  # Vacancies section
+  # Section will only be displayed if there are valid vacancies in `content/vacancy`
+  [params.vacancies]
+    title = "Vacancies"
+    subtitle = ""
+    count = 3
+    str_all = "More Vacancies"
+
+  # Contact section.
+  [params.contact]
+    enable = true
+    title = "Contact"
+    subtitle = ""
+    autolink = false  # Automatically link email and phone?
+
+  # Navigation Links
+  #   The weight parameter defines the order that the links will appear in.
+
+  [[menu.main]]
+      name = "Home"
+      url = "#top"
+      weight = 1
+
+  [[menu.main]]
+      name = "Publications"
+      url = "/publication"
+      weight = 2
+
+  [[menu.main]]
+      name = "People"
+      url = "/member"
+      weight = 3
+
+  [[menu.main]]
+      name = "Demos"
+      url = "/demo/all"
+      weight = 4
+
+ # [[menu.main]]
+ #     name = "Research"
+ #     url = "/research"
+ #     weight = 2
+
+
+
+#    [[menu.main]]
+#      name = "Projects"
+#      url = "#projects"
+#      weight = 4
+
+
+
+#  [[menu.main]]
+#      name = "Blog"
+#      url = "#posts"
+#      weight = 6
+
+
+  [[menu.main]]
+      name = "Contact"
+      url = "#contact"
+      weight = 5

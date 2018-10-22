@@ -1,0 +1,6 @@
+where $.Params "is_working_paper" "==" "true"
+
+ and (.Key '==' '0001'
+
+                         {{ if not $.Params.is_working_paper }}
+                                                 {{ end }}
