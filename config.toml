@@ -3,7 +3,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = ""
+baseurl = "bramleylab.github.io"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Bramley Computational Cognitive Science Lab"
