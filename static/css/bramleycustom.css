@@ -6,12 +6,34 @@
     clear: both;
 }
 
-/*.slogan-links {
-    color: #66FF66;
+/*#affiliates > .container > .row > .col-xs-4:nth-child(3n+1) {
+    clear: both;
+}*/
+
+#article-title-custom {
+	color: #000000;
+}
+
+#article-title-custom:hover {
+	color: #5cb85c;
+}
+
+a, a:visited,
+a:hover {
+    color: #2e5c2e;/*#0095eb#11FF11;*/
     text-decoration:none;
     transition:color 0.6s ease;
 }
 
-.slogan-head {
+a:hover {
+    color: #5cb85c;
+}
+
+.navbar-default .navbar-nav li a:hover {
+    color: #5cb85c;
+}
+
+#slogan-button-custom {
 	color: #FFFFFF;
-}Markdownification overrides it!*/
+    background-color: #5cb85c;
+}

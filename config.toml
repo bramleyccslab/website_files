@@ -2,13 +2,12 @@ layoutdir = "themes/hugo-academic-group/layouts"
 publishdir = "public"
 static = "/static"
 builddrafts = false
-# Replace this with your website URL
-baseurl = "bramleylab.github.io"
+baseurl = "https://bramleylab.github.io"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Bramley Computational Cognitive Science Lab"
 math = true
-copyright = "&copy; Neil Bramley, 2018 "
+copyright = "&copy; Neil Bramley, 2018. Banner photo credit Eric Schulz."
 
 
 
@@ -21,32 +20,41 @@ tag = "tags"
   description = "Computational Cognitive Science Group"
   author = "Neil Bramley"
   email = "bramleylab@gmail.com"
-  address = "Room 613, 60 5th Ave., New York, NY"
+  address = "Psychology Department, University of Edinburgh, EH8 9JZ, Scotland"
   
   custom_css = ["bramleycustom.css"]
 
   slogan = "Bramley Lab"
   slogan_text = "Computational Cognitive Science Group at the University of Edinburgh"
 
+  [params.logo]
+    image = "img/logo.png"
+    link = "https://www.ed.ac.uk"
+
   [[params.slogan_columns]]
     title = "About"
-    text =  "Bramley Lab is a brand new computational cognitive science focused lab, based in the [Psychology department](https://www.ed.ac.uk/ppls/psychology) at the [University of Edinburgh](www.ed.ac.uk) and affiliated with the [Informatics Forum](https://www.ed.ac.uk/informatics/).  We welcome prospective PhD students, PostDocs and study participants."
+    text =  "Bramley Lab is a brand new computational cognitive science focused lab.  We are based in Psychology, in the School of Philosophy, Psychology, and Language Sciences, at the University of Edinburgh."
     link = "https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme"
     link_text = "Apply to do a PhD in the lab!"
     weight = 1
   
   [[params.slogan_columns]]
     title = "Mission"
-    text = "We are interested in understanding how human minds learn about the world, how they represent and use what they learn.  In particular, we focus on [*active learning*](pdfs/bramley2018physics.pdf) (how people gather information from the world), [*causality*](pdfs/bramley2017neurath.pdf) (how they represent the world's dynamics), [*discovery*](pdfs/bramley2018zendo.pdf) (how people generate new ideas, concepts and theories), and [*control*](pdfs/davis2018control.pdf) (how people utilise their causal knowledge to achieve their goals)."
+    text = "We are interested in understanding the building blocks of human intelligence.  In particular, our lab focuses on *active learning, causality, hypothesis generation*, and *control*."
+    #**active learning** (how people gather information), **causality** (how they represent the world's dynamics),  **discovery** (how people generate new ideas), and **control** how people use their knowledge to achieve their goals)."
+
+
     #Much of the lab's research focuses on how people learn about causal structure and how they gather new information during extended interactions with their environment.    The lab is run by Neil Bramley.  I am a new lecturer in Cognitive Psychology at the University of Edinburgh.  Previously a Moore-Sloan Data Science Environment postdoc at New York University. In my personal line of research, I use interactive experiments and games combined with computational modelling to study how people learn, represent, and reason about the world."
-    link = "https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme"
+    link = "/research"
     link_text = "More about our research"
     weight = 2
 
   [[params.slogan_columns]]
     title = "Approach"
-    text = "We take a computational approach to studying human cognition.  We sometimes collect behavioural data by running experiments in the lab, but often collect large behavioural datasets online using [psiTurk](https://psiturk.org/) and websites like [Amazon mechanical Turk](https://www.mturk.com/) and [Prolific Academic](https://prolific.ac/).  We build and compare computational models and simulations against human data to reverse engineer human intelligence."
-    link = "/demo/all"
+    text = "We take a computational approach to studying human cognition.  This usually involves running behavioural experiments in the lab or online alongside computational models."
+
+    #using [psiTurk](https://psiturk.org/) and websites like [Amazon mechanical Turk](https://www.mturk.com/) and [Prolific Academic](https://prolific.ac/).  We build and compare computational models and simulations against human data."
+    link = "/demo"
     link_text = "Try past experiments"
     weight = 3
 
@@ -63,15 +71,12 @@ tag = "tags"
 #  [params.demos]
 #    title = "Demos"
 
-
-
-
   # Publications section.
   # Section will only be displayed if there are publications in `content/publication/`.
   [params.publications]
-    count = 7
+    count = 10
     detailed_list = false
-    title = "Publications"
+    title = "Selected Publications"
     subtitle = ""
     str_all = "All Publications"
 
@@ -126,23 +131,19 @@ tag = "tags"
       weight = 3
 
   [[menu.main]]
-      name = "Demos"
-      url = "/demo/all"
+      name = "Research"
+      url = "/research"
       weight = 4
 
- # [[menu.main]]
- #     name = "Research"
- #     url = "/research"
- #     weight = 2
-
-
+  [[menu.main]]
+      name = "Demos"
+      url = "/demo"
+      weight = 5
 
 #    [[menu.main]]
 #      name = "Projects"
 #      url = "#projects"
 #      weight = 4
-
-
 
 #  [[menu.main]]
 #      name = "Blog"
@@ -153,4 +154,4 @@ tag = "tags"
   [[menu.main]]
       name = "Contact"
       url = "#contact"
-      weight = 5
+      weight = 6

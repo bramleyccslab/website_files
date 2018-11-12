@@ -5,7 +5,7 @@ id = "postdoc1"
 interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
 name = "This could be you"
 portrait = "/portraits/portrait.jpg"
-short_bio = "My short bio. I am Member Member."
+short_bio = "My short bio. I am a postdoc."
 short_name = ""
 title = "Member 3"
 

@@ -51,18 +51,20 @@ cv_link = "cv/neil.pdf"
 
 [[organizations]]
     name = "REMOVED NAME FIELD AND COMMA"
-    role = "Principle Investigator"
+    role = "Principal Investigator"
 
 +++
 
 <!-- I am a cognitive scientist and Moore-Sloan post-doctoral associate in Todd Gureckis' computation and cognition lab and the Centre for Data Science at New York University.  -->
 
 
-I am broadly interested in human learning and intelligence.  More specifically, I've studied how people gather new information during extended interactions with their environment and how they learn about and represent its causal structure. One of my key contributions is a model of incremental, boundedly rational human learning in which wholesale belief change takes place through a sequence of local changes. This approach is helping to explain how the mind deals with radical complexity, and demystifies notions like “curiosity” and “creativity” as precise algorithmic components of a flexible, incremental and active inferential system.
+I am interested in higher level cognition, how we think about and represent the world and its alternatives and use these ability to plan, imagine, explain, blame and solve problems.  In my PhD I studied how people use interventions (roughly, actions that "tinker" with the world) to learn about causal relationships in a range of simple environments.
 
-I generally use interactive experiments and games combined with computational modelling to study how people learn, represent, and reason about the world.
+A major output of this work was a model of incremental, boundedly rational human learning in which wholesale belief change takes place through a sequence of local changes. This approach helps to explain how the mind deals with radical complexity.  I am now exploring expansions of this idea to model the discovery of new or novel theories and hypotheses.  This project involves probabilistic grammars and program induction ideas to explore theory generation in compositional and infinite theory spaces.
 
-*I will be starting as a Lecturer in Cognitive Psychology at the University of Edinburgh from January 2019. Get in touch if you are interested in doing a PhD or postdoc!*
+I have generally used interactive experiments and games combined with computational modelling to get at these questions.
+
+*I start as a Lecturer in Cognitive Psychology at the University of Edinburgh from January 2019.* [**_Get in touch_**](mailto:nrbramley@gmail.com) *if you are interested in doing a PhD or postdoc!*
 <!-- You can write $\LaTeX$ and *Markdown* here. -->
 
 <!-- # Minyae adgnoscitque fugiebat parentis ausum superos huius -->

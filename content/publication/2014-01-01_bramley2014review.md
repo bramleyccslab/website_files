@@ -11,7 +11,8 @@ projects = []
 tags = []
 url_source = ""
 math = true
-highlight = true
+url_custom = [{name = "Link", url = "http://blogs.lse.ac.uk/politicsandpolicy/book-review-future-minded-the-psychology-of-agency-and-control-by-magda-osman/" } ]
+highlight = false
 [header]
 image = ""
 caption = ""

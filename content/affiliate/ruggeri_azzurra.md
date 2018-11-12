@@ -5,6 +5,6 @@ link = "https://www.mpib-berlin.mpg.de/en/staff/azzurra-ruggeri"
 
 [[organizations]]
     name = "MPI, Berlin"
-    role = "Director"
+    role = "Research Group Leader"
 
 +++
