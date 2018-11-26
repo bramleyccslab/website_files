@@ -2,13 +2,13 @@
     padding-top: 5px;
 }
 
-#affiliates > .container > .row > .col-md-2:nth-child(6n+1) {
-    clear: both;
-}
-
 /*#affiliates > .container > .row > .col-xs-4:nth-child(3n+1) {
     clear: both;
 }*/
+
+#affiliates > .container > .row > .col-md-2:nth-child(6n+1) {
+    clear: both;
+}
 
 #article-title-custom {
 	color: #000000;

@@ -8,7 +8,7 @@ portrait = "/portraits/neil.jpg"
 short_bio = "Lecturer in Cognitive Psychology at the University of Edinburgh in the Psychology Department and affiliated with the Informatics forum."
 short_name = "Neil"
 title = "Dr"
-cv_link = "cv/neil.pdf"
+cv_link = "../../cv/neil.pdf"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
