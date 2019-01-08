@@ -1,6 +1,18 @@
-.pub-list-item .pub-links {
+.pub-list-item {
     padding-top: 5px;
 }
+
+.pub-links {
+    padding-top: 1px;
+    font-size: 0.8em;
+}
+
+.section-heading h1 {
+    font-size: 2.7rem;
+}
+/*TODO currently hugo css seems to get called before and after custom,
+can i a) check b) change this?*/
+
 
 /*
 #affiliates > .container > .row > .col-sm-2:nth-child(6n+1) {
@@ -19,13 +31,20 @@
   flex-direction: column;
 }
 
+.article-title {
+    font-size: 1.3em;
+}
+
 #article-title-custom {
 	color: #000000;
+  /*font-size: 0.75em;*/
 }
 
 #article-title-custom:hover {
 	color: #5cb85c;
 }
+
+
 
 a, a:visited,
 a:hover {
@@ -45,4 +64,8 @@ a:hover {
 #slogan-button-custom {
 	color: #FFFFFF;
     background-color: #5cb85c;
+}
+
+#profile ul.social-icon {
+    margin-top: 10px;
 }

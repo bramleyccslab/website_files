@@ -20,7 +20,7 @@ tag = "tags"
   description = "Computational Cognitive Science Group"
   author = "Neil Bramley"
   email = "bramleylab@gmail.com"
-  address = "Psychology Department, University of Edinburgh, EH8 9JZ, Scotland"
+  address = "Room S2, 7 George Square, EH8 9JZ, Scotland"
   
   custom_css = ["bramleycustom.css"]
 
@@ -34,8 +34,8 @@ tag = "tags"
   [[params.slogan_columns]]
     title = "About"
     text =  "Bramley Lab is a brand new computational cognitive science focused lab.  We are based in Psychology, in the School of Philosophy, Psychology, and Language Sciences, at the University of Edinburgh."
-    link = "https://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme"
-    link_text = "Apply to do a PhD in the lab!"
+    link = "mailto:bramleylab@ed.ac.uk"
+    link_text = "Get in touch"
     weight = 1
   
   [[params.slogan_columns]]
@@ -58,7 +58,7 @@ tag = "tags"
     link_text = "Try past experiments"
     weight = 3
 
-  # Selected Publications section. (NB: Don't feel like this is used??)
+  # Selected Publications section. (NB: Doesn't seem like this is used??)
   [params.publications_selected]
     detailed_list = true
     title = "Selected Publications"

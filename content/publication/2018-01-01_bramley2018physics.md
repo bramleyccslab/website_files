@@ -13,6 +13,7 @@ url_pdf = "/pdfs/bramley2018physics.pdf"
 url_preprint = "https://psyarxiv.com/u9y4c"
 url_project = "https://github.com/neilbramley/active_physics"
 url_slides = "/slides/bramley2018physicsslides.key"
+url_custom = [{name = "Press", url = "https://medium.com/@NYUDataScience/quantifying-how-we-intuit-the-physical-world-f5973e021b3c"}]
 url_source = ""
 math = true
 highlight = true
