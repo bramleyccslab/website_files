@@ -9,6 +9,7 @@ short_bio = "Lecturer in Cognitive Psychology."
 short_name = "Neil"
 title = "Dr"
 cv_link = "../../cv/neil.pdf"
+
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
@@ -28,6 +29,12 @@ cv_link = "../../cv/neil.pdf"
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/neilbramley"
+
+
+[[education]]
+    course = "Moore Sloan Postdoc"
+    institution = 'New York University'
+    year = 2019
 
 [[education]]
     course = "PhD in Experimental Psychology"
@@ -50,8 +57,9 @@ cv_link = "../../cv/neil.pdf"
     year = 2009   
 
 [[organizations]]
-    address = "Room S2, 7 George Square, EH8 9JZ"
+    address = "Room S2, 7 George Square, EH8 9JZ Tel:6504643"
     role = "Principal Investigator"
+
 
 +++
 

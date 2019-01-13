@@ -21,7 +21,7 @@ tag = "tags"
   author = "Neil Bramley"
   email = "bramleylab@gmail.com"
   address = "Room S2, 7 George Square, EH8 9JZ, Scotland"
-  
+  phone = "+44 131 650 4643"
   custom_css = ["bramleycustom.css"]
 
   slogan = "Bramley Lab"
