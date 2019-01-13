@@ -2,7 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "neil"
-interests = ["Causality", "Active learning", "Discovery", "Control"]
+interests = ["Causality:  How people learn and reason about the causal structure of our environment", "Active learning: How people gather information", "Discovery: How people generate new ideas and theories", "Control: How people plan and achieve their goals"]
 name = "Neil R Bramley"
 portrait = "/portraits/neil.jpg"
 short_bio = "Lecturer in Cognitive Psychology."
@@ -66,9 +66,11 @@ cv_link = "../../cv/neil.pdf"
 <!-- I am a cognitive scientist and Moore-Sloan post-doctoral associate in Todd Gureckis' computation and cognition lab and the Centre for Data Science at New York University.  -->
 
 
-I am interested in higher level cognition.  That is, how we represent the world and think about its alternatives, plus how we use these abilities to plan, imagine, explain, blame and solve problems.  I generally use interactive experiments and games combined with computational modelling to investigate these issues.
+I am interested in higher level cognition.  That is, how people represent the world and think about its alternatives, plus how they use these abilities to plan, imagine, explain, blame and solve problems.  I generally use interactive experiments and games combined with computational modelling to investigate these issues.
 
-Much of my research has studied how people use interventions (roughly, actions that "tinker" with causal variables in an environment or system of interest) to learn about causal relationships.  A major output of this work is a model of incremental, boundedly rational human learning in which wholesale belief change takes place through a sequence of local changes. I am currently exploring extensions of this idea to capture how people discover and construct novel theories and hypotheses.  This line of work incorporates probabilistic grammars and "[program induction](https://programinduction.github.io)" ideas to model theory generation in compositional theory spaces.
+Much of my research has studied how people use interventions (roughly, actions that "tinker" with causal variables in an environment or system of interest) to learn about causal relationships.  A major output of this work is a model of incremental, boundedly rational human learning in which wholesale belief change takes place through a sequence of targeted local changes.
+
+I am currently exploring extensions of this idea to capture how people discover and construct novel theories and hypotheses.  This line of work incorporates probabilistic grammars and "[program induction](https://programinduction.github.io)" ideas to model theory generation in compositional theory spaces.
 
 *I started as lecturer in cognitive psychology at the University of Edinburgh from January 2019.* [**_Get in touch_**](mailto:neil.bramley@ed.ac.uk) *if you are interested in doing a PhD or postdoc.*
 <!-- You can write $\LaTeX$ and *Markdown* here. -->
