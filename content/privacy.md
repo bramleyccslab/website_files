@@ -6,4 +6,4 @@ interesting_parameter = ""
 
 # Privacy statement
 
-This website does not collect cookies
+This website has no cookies and does not collect any personal data.
