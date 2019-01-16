@@ -6,4 +6,6 @@ interesting_parameter = ""
 
 # Privacy statement
 
-This website has no cookies and does not collect any personal data.
+This website does not generate any cookies and collects no personal data.
+
+Please contact [Neil Bramley](mailto:neil.bramley@ed.ac.uk) if you have any questions or concerns.
