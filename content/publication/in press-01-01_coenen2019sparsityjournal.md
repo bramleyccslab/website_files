@@ -9,7 +9,8 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_preprint = "/pdfs/coeneninrevisionsparsity.pdf"
+url_preprint = "/pdfs/coenen2019sparsity.pdf"
+url_project = "https://github.com/gureckis/magic_box"
 math = true
 highlight = true
 [header]

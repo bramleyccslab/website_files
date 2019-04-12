@@ -13,11 +13,12 @@ Experiment 1  [**demo**](https://neilrbramley.com/experiments/apl/e1/demo.html) 
 Experiment 2 [**replays**](https://neilrbramley.com/experiments/apl/e2/replays.html) 
 in Bramley, Gerstenberg, Tenenbaum and Gureckis ([2018](../pdfs/bramley2018physics.pdf)).  
 
-[**Pilot task**](http://www.ucl.ac.uk/lagnado-lab/experiments/neil/apl/exp_1/demo.html) in Bramley, Gersttenberg and Tenenbaum ([2016](../pdfs/bramley2017natural))  
+[**Pilot task**](http://www.ucl.ac.uk/lagnado-lab/experiments/neil/apl/exp_1/demo.html) in Bramley, Gersttenberg and Tenenbaum ([2016](../pdfs/bramley2016natural))  
 
-Coming soon: OpenAi Gym implementation and demo learning algorithms.
 
 ![**physics**](../img/tasks/physics.jpg)*Physics learning task: Interact with coloured pucks in a 2D world bounded by solid walls using the mouse or trackpad.  Try to work out if A or B is heavier, and whether they attract or repel one another.*
+
+Here are some [**videos**](https://github.com/allenlsj/physics_world_rl/tree/master/sample_videos) of an artificial agent playing our task.
 
 ## Hypothesis generation
 

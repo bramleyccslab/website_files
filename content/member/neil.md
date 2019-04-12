@@ -2,7 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "neil"
-interests = ["Causality:  How people learn and reason about the causal structure of our environment", "Active learning: How people gather information", "Discovery: How people generate new ideas and theories", "Control: How people plan and achieve their goals"]
+interests = ["Causality", "Active learning", "Discovery", "Control"]
 name = "Neil R Bramley"
 portrait = "/portraits/neil.jpg"
 short_bio = "Lecturer in Cognitive Psychology."
@@ -72,7 +72,7 @@ Much of my research has studied how people use interventions (roughly, actions t
 
 I am currently exploring extensions of this idea to capture how people discover and construct novel theories and hypotheses.  This line of work incorporates probabilistic grammars and "[program induction](https://programinduction.github.io)" ideas to model theory generation in compositional theory spaces.
 
-*I started as lecturer in cognitive psychology at the University of Edinburgh from January 2019.* [**_Get in touch_**](mailto:neil.bramley@ed.ac.uk) *if you are interested in doing a PhD or postdoc.*
+*I started as lecturer in cognitive psychology at the University of Edinburgh in January 2019.* [**_Get in touch_**](mailto:neil.bramley@ed.ac.uk) *if you are interested in doing a PhD or postdoc.*
 <!-- You can write $\LaTeX$ and *Markdown* here. -->
 
 <!-- # Minyae adgnoscitque fugiebat parentis ausum superos huius -->
