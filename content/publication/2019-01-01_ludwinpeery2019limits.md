@@ -10,7 +10,7 @@ selected = false
 projects = []
 tags = []
 highlight = true
-url_preprint = "/pdfs/ludwinpeery2019limits.pdf"
+url_pdf = "/pdfs/ludwinpeery2019limits.pdf"
 url_project = "https://osf.io/gvknw/?view_only=54ecaca925c847a1a6ddcdbe60882e9a"
 url_source = ""
 math = true
