@@ -29,7 +29,7 @@ tag = "tags"
 
   [params.logo]
     image = "img/logo.png"
-    link = "https://www.ed.ac.uk"
+    link = "https://www.ed.ac.uk/ppls"
 
   [[params.slogan_columns]]
     title = "About"
@@ -135,10 +135,16 @@ tag = "tags"
       url = "/research"
       weight = 4
 
+ # [[menu.main]]
+ #     name = "Demos"
+ #     url = "/demo"
+ #     weight = 5
+
+  
   [[menu.main]]
-      name = "Demos"
-      url = "/demo"
-      weight = 5
+      name = "Errata"
+      url = "/errata"
+      weight = 6
 
 #    [[menu.main]]
 #      name = "Projects"
@@ -154,4 +160,4 @@ tag = "tags"
   [[menu.main]]
       name = "Contact"
       url = "#contact"
-      weight = 6
+      weight = 7
