@@ -2,6 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "phdstudent1"
+sort_position = "11"
 interests = ["Bayesian inference", "Probability matching", "Causality"]
 name = "This could be you"
 portrait = "/portraits/portrait.jpg"

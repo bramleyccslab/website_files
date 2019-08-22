@@ -2,6 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "neil"
+sort_position = "0"
 interests = ["Causality", "Active learning", "Discovery", "Control"]
 name = "Neil R Bramley"
 portrait = "/portraits/neil.jpg"

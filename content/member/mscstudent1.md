@@ -1,13 +1,14 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "phdstudent1"
+id = "mscstudent1"
+sort_position = "12"
 interests = ["Bayesian inference", "Probability matching", "Causality"]
 name = "This could be you"
 portrait = "/portraits/portrait.jpg"
 short_bio = "My short bio. I am an MSc student."
 short_name = ""
-title = "Member 2"
+title = "Member 1"
 
 [[social]]
     icon = "envelope"

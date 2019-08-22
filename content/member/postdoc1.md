@@ -2,6 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "postdoc1"
+sort_position = "10"
 interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
 name = "This could be you"
 portrait = "/portraits/portrait.jpg"
@@ -41,7 +42,8 @@ title = "Member 3"
 +++
 
 blah blah blah
-<!-- You can write $\LaTeX$ and *Markdown* here.
+
+<!-- You can write $\LaTeX$ and *Markdown* here. -->
 
 # Minyae adgnoscitque fugiebat parentis ausum superos huius
 
@@ -98,4 +100,4 @@ Moribunda nec certe succedere mediam rediit locuta laudatis lacertos pecori unda
 positaeque verentur quos devertor Alcyone musta? Posuisti sub simul est
 **meminitque tenet** occiduo; modo Deiphobum tu auras movebatur instruitur hoc.
 Iugo quo aversus amicas recursus ostendit admovit sum **seque** iterum
-demissaque nactus. -->
+demissaque nactus.
