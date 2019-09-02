@@ -1,46 +1,56 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "mscstudent1"
-sort_position = "12"
-interests = ["Bayesian inference", "Probability matching", "Causality"]
-name = "This could be you"
-portrait = "/portraits/portrait.jpg"
-short_bio = "My short bio. I am an MSc student."
-short_name = ""
-title = "Member 1"
+id = "tianwei"
+sort_position = "3"
+interests = ["Bayesian inference","Causality", "Mental simulation","Evolution and adaptation"]
+name = "Tianwei Gong"
+portrait = "/portraits/tianwei.jpg"
+short_bio = ""
+short_name = "Tia"
+title = "Miss"
+cv_link = "../../cv/tianwei.pdf"
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:tia.gong@ed.ac.uk"
 
 [[social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/"
+    link = "https://twitter.com/Tianwei_Gong"
 
 [[social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.nl/"
+    link = "https://scholar.google.com/citations?user=fqT3VBAAAAAJ&hl=zh-CN&oi=ao"
 
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/"
+    link = "https://github.com/tianweigong"
 
 [[education]]
-    course = "BSc in Computer Science"
-    institution = 'Aberdeen University'
-    year = 2014
+    course = "MRes in Psychology"
+    institution = 'University of Edinburgh'
+    year = 2020
+
+[[education]]
+    course = "BSc in Psychology"
+    institution = 'Beijing Normal University'
+    year = 2018
 
 [[organizations]]
     name = "Edinburgh University"
-    role = "MSc Student"
+    role = "MRes Student"
 
 +++
-blah blah blah
+
+I am broadly interested in how people represent the world, how they obtain these representations, and how they apply them efficiently. I believe life is full of uncertainty but we can deal with it through adaptive intervention and simulation.
+
+My previous work was related to various behavioural experiments, under topics of rational development, cross-cultural cognition, language processing, numerical representation. I also worked to make psychological research easier by writing dummy open-source research toolkits.
+
 
 <!-- You can write $\LaTeX$ and *Markdown* here.
 

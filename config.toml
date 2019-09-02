@@ -19,7 +19,7 @@ tag = "tags"
 [params]
   description = "Computational Cognitive Science Group"
   author = "Neil Bramley"
-  email = "bramleylab@gmail.com"
+  email = "bramleylab@ed.ac.uk"
   address = "Room S2, 7 George Square, EH8 9JZ, Scotland"
   phone = "+44 131 650 4643"
   custom_css = ["bramleycustom.css"]
@@ -35,7 +35,7 @@ tag = "tags"
     title = "About"
     text =  "Bramley Lab is a brand new computational cognitive science focused lab.  We are based in Psychology, in the School of Philosophy, Psychology, and Language Sciences, at the University of Edinburgh."
     link = "mailto:bramleylab@ed.ac.uk"
-    link_text = "Get in touch"
+    link_text = "Apply to work in the lab"
     weight = 1
   
   [[params.slogan_columns]]

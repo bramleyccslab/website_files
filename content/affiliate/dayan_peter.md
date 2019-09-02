@@ -4,7 +4,7 @@ portrait = "/portraits/peter_dayan.jpg"
 link = "http://www.kyb.tuebingen.mpg.de/research/dep/pd.html"
 
 [[organizations]]
-    name = "MPI, Tubingen"
+    name = "MPI, Tübingen"
     role = "Director"
 
 +++

@@ -4,7 +4,7 @@ portrait = "/portraits/eric_schulz.jpg"
 link = "https://ericschulz.github.io/"
 
 [[organizations]]
-    name = "Harvard"
+    name = "MPI, Tübingen"
     role = "Postdoc"
 
 +++
