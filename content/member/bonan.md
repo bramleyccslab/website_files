@@ -46,6 +46,6 @@ cv_link = "../../cv/bonan.pdf"
 
 I'm interested in how people come to *know* from observation, intervention, and imagination. In particular, I'm interested in how human cognition shapes the kind of knowledge we could possibly learn. My PhD project is focused on causal generalisation - how causal inferences learned in one situation are tested, applied, or updated in another. I believe such understanding of human cognition can help computer programs learn more efficiently.
 
-My previous work has combined statistical analysis from empirical data and formal methods in modelling to approach questions in children"s logical reasoning, dynamics in social networks, and richer notion of rationality in game theory. Recently I am attracted by the program induction paradigm, and I want to learn more about this during my PhD.
+My previous work has combined statistical analysis from empirical data and formal methods in modelling to approach questions in children's logical reasoning, dynamics in social networks, and richer notion of rationality in game theory. Recently I am attracted by the program induction paradigm, and I want to learn more about this during my PhD.
 
 My name is written as 赵博囡 in simplified Chinese.  Pronunciation with tones is Zhào-Bó-Nān.
