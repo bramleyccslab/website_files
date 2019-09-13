@@ -8,7 +8,7 @@ name = "Tianwei Gong"
 portrait = "/portraits/tianwei.jpg"
 short_bio = "Interested in causality and time."
 short_name = "Tia"
-title = "Miss"
+title = "Tia"
 cv_link = "../../cv/tianwei.pdf"
 
 [[social]]

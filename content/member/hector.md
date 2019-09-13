@@ -8,7 +8,7 @@ name = "Héctor Otero Mediero"
 portrait = "/portraits/hector.jpg"
 short_bio = "Interested in (Deep) Reinforcement learning."
 short_name = "Héctor"
-title = "Mr"
+title = "Hector"
 cv_link = "../../cv/hector.pdf"
 
 [[social]]

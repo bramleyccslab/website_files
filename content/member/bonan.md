@@ -8,7 +8,7 @@ name = "Bonan Zhao"
 portrait = "/portraits/bonan.jpg"
 short_bio = "Interested in causal generalisation"
 short_name = "Bonan"
-title = ""
+title = "Bonan"
 cv_link = "../../cv/bonan.pdf"
 
 [[social]]

@@ -8,7 +8,7 @@ name = "Neil R Bramley"
 portrait = "/portraits/neil.jpg"
 short_bio = "Interested in causality, active learning, discovery, and control."
 short_name = "Neil"
-title = "Dr"
+title = "Neil"
 cv_link = "../../cv/neil.pdf"
 
 [[social]]

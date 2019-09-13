@@ -8,7 +8,7 @@ name = "Jan-Philipp Fränken"
 portrait = "/portraits/janphilipp.jpg"
 short_bio = "Interested in information cascades and belief polarisation."
 short_name = "Jan-Philipp"
-title = ""
+title = "Philipp"
 cv_link = "../../cv/janphilipp.pdf"
 
 [[social]]
