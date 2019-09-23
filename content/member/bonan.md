@@ -6,7 +6,7 @@ sort_position = "2"
 interests = ["Causality", "Learning", "Agency", "Bayesian inference" ]
 name = "Bonan Zhao"
 portrait = "/portraits/bonan.jpg"
-short_bio = "Interested in causal generalisation"
+short_bio = "Interested in causal generalisation."
 short_name = "Bonan"
 title = "Bonan"
 cv_link = "../../cv/bonan.pdf"
@@ -14,7 +14,7 @@ cv_link = "../../cv/bonan.pdf"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:zbn.dale@gmail.com"
+    link = "mailto:b.zhao@ed.ac.uk"
 
 [[social]]
     icon = "github"

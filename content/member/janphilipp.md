@@ -55,7 +55,7 @@ cv_link = "../../cv/janphilipp.pdf"
 
 <!--  I am a PhD student in Neil Bramley's Computational Cognitive Science Lab at the University of Edinburgh. -->
 
-I am currently investigating information cascades and the emergence of echo chambers through empirically informed agent-based simulations. A key focus of my PhD is to increase the cognitive sophistication of artificial agents to better account for the social- and cognitive determinants underlying the formation of echo chambers in lateral information systems (e.g., social media). I am also very interested in reinforcement learning and hypotheses generation, and I aim to combine this interest with my focus on multi-agent systems. 
+I am currently investigating information cascades and the emergence of echo chambers through empirically informed agent-based simulations. A key focus of my PhD is to increase the cognitive sophistication of artificial agents to better account for the social- and cognitive determinants underlying the formation of echo chambers in lateral information systems (e.g., social media). I am also very interested in reinforcement learning and hypothesis generation, and I aim to combine this interest with my focus on multi-agent systems. 
 
 I previously worked as a graduate reseracher in [Dimitris Pinotsis' Lab](https://www.pinotsislab.com/) at City - University of London where I used dynamic causal modelling to investigate drivers of resting state activity in the rat's vibrissal somatosensory system. Prior to moving to London I worked as a research assistant in [Henry Otgaar's' Lab](https://henryotgaar.wixsite.com/henryotgaar) based in Maastricht. The results of my work as RA can be found [here](https://www.sciencedirect.com/science/article/pii/S0001691818302385).
 
