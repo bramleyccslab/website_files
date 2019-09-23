@@ -1,0 +1,50 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+{{ partial "slogan.html" . }}
+
+<!-- {{ range .Pages }}
+    {{/* The context, ".", is now each one of the pages as it goes through the loop */}}
+    {{ printf "%#v" . }}
+{{ end }} -->
+                    
+<!-- Publications Section -->
+{{ partial "index/publications.html" . }}
+
+<!-- Members -->
+{{ partial "index/members.html" . }}
+
+<!-- Affiliates Section -->
+{{ partial "index/affiliates.html" . }}
+
+<!-- Projects Section -->
+{{ partial "index/projects.html" . }}
+
+<!-- {{ partial "index/demos.html" . }} -->
+
+<!-- Blog Posts Section -->
+{{ partial "index/posts.html" . }}
+
+<!-- Vacancies -->
+{{ partial "index/vacancies.html" . }}
+
+<!-- Contact Section -->
+{{ if .Site.Params.contact.enable }}
+<section id="contact" class="home-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-4 section-heading">
+                <h1>{{ with .Site.Params.contact.title }}{{ . | markdownify }}{{ end }}</h1>
+                {{ with .Site.Params.contact.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+            </div>
+            <div class="col-xs-12 col-md-8">
+                {{ partial "home_contact.html" . }}
+                <!--<p><a href="http://www.ed.ac.uk/ppls/psychology/prospective/postgraduate/psychology-phd-programme"><b>Apply to do a PhD</b></a></p>-->
+            </div>
+        </div>
+    </div>
+    {{ partial "sponsors.html" . }}
+</section>
+{{ end }}
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

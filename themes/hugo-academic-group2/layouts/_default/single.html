@@ -1,0 +1,10 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<div class="container">
+    {{.Content}}
+    <h2 itemprop="name">{{ .Params.interesting_parameter }}</h2>
+</div>
+
+{{ partial "footer_container.html" .}}
+{{ partial "footer.html" .}}

@@ -1,0 +1,34 @@
+<header class="space-below ">
+    <div class="header-content">
+        <div class="header-content-inner">
+            <h1 class="slogan-head">
+                {{ with .Site.Params.slogan_icon }}
+                    <i class="{{.}}"></i>
+                {{ end }}
+                {{.Site.Params.slogan | safeHTML}}
+            </h1>
+            <!-- <hr> -->
+            <p class="slogan-text">
+                {{.Site.Params.slogan_text}}
+            </p>
+        </div>
+                    <div class="container-fluid">
+                <div class="row">
+                    {{range .Site.Params.slogan_columns}}
+                    <div class="col-xs-12 col-sm-4">
+                        <h3>{{.title}}</h3>
+                        <p class="slogan-column">{{.text | markdownify}}</p>
+                    </div>
+                    {{end}}
+                </div>
+                <div class="row">
+                    {{range .Site.Params.slogan_columns}}
+                    <div class="col-xs-12 col-sm-4">
+                        <!-- <a href="{{.link}}">{{.link_text}}</a> -->
+                        <a class="btn btn-success btn-outline slogan-button-custom" href="{{.link}}">{{.link_text}}</a>
+                    </div>
+                    {{end}}
+                </div>
+            </div>
+    </div>
+</header>

@@ -1,0 +1,66 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<div class="container">
+
+    <!-- <div class="row">
+        <div class="col-md-12">
+            <h1>Working papers</h1>
+            {{ range .Data.Pages.GroupByDate "2006" }}
+            {{ if eq .Key "0001" }}
+                <div class="row" id="pub_list">
+                    <div class="col-md-2">
+                       </div>
+                    <div class="col-md-10">
+                        {{ range .Pages.ByDate.Reverse}}
+                            {{ partial "publication_li_detailed" . }}
+                        {{ end }}
+                    </div>
+                </div>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div> -->
+
+    <div class="row">
+        <div class="col-md-12">
+            <h1>All Publications</h1>
+            {{ range .Data.Pages.GroupByDate "2006" }}
+            {{ if eq .Key "0001" }}
+                <div class="row" id="pub_list">
+                    <div class="col-md-2">
+                        <h3>Working papers</p><!-- <h3>{{ .Key }}</h3> -->
+                    </div>
+                    <!-- <p>{{ printf "%#v" . }}</p> -->
+                    <div class="col-md-10">
+                        {{ range .Pages.ByDate.Reverse}}
+                            <!-- {{ printf "%#v" . }} -->
+                            {{ partial "publication_li_detailed" . }}
+                        {{ end }}
+                    </div>
+                </div>
+            {{ end }}
+            {{ end }}
+            {{ range .Data.Pages.GroupByDate "2006" }}
+            {{ if ne .Key "0001" }}
+                <div class="row" id="pub_list">
+                    <div class="col-md-2">
+                        <h3>{{ .Key }}</h3>
+                    </div>
+                    <!-- <p>{{ printf "%#v" . }}</p> -->
+                    <div class="col-md-10">
+                        {{ range .Pages.ByDate.Reverse}}
+                            <!-- {{ printf "%#v" . }} -->
+                            {{ partial "publication_li_detailed" . }}
+                        {{ end }}
+                    </div>
+                </div>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+
+</div>
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
