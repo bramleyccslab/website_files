@@ -6,7 +6,7 @@
 
 3. Check it in browser: `http://localhost:1313/`
 
-4. `ctrl+4` to stop
+4. `ctrl+c` to stop
 
 5. To rebuild: clear `/public`, run `hugo` in `website_files` to repopulate public
 
