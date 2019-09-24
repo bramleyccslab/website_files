@@ -1,6 +1,13 @@
 # How to update
 
-1. Install hugo: [here](https://gohugo.io/getting-started/installing/)
+1. Install [hugo](https://gohugo.io/getting-started/installing/) -
+n.b. the current project works with hugo version 0.55.1, not compatibale with the latest version of hugo.
+
+   Mac users with homebrew can use the command below.
+
+   ```
+   brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/817ed69007a47e178e0033ae62c054b7bea2ed86/Formula/hugo.rb
+   ```
 
 2. Run a development server in website_files: `hugo server`
 
