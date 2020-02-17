@@ -3,7 +3,7 @@ bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "janphilipp"
 sort_position = "1"
-interests = ["Information Cascades", "Multi-agent Systems", "Reinforcement Learning", "Connectionism"]
+interests = [ "Multi-agent Systems", "Probabilistic Beliefs", "Information Cascades", "Graphical modeling"]
 name = "Jan-Philipp Fränken"
 portrait = "/portraits/janphilipp.jpg"
 short_bio = "Interested in information cascades and belief polarisation."
@@ -55,9 +55,9 @@ cv_link = "../../cv/janphilipp.pdf"
 
 <!--  I am a PhD student in Neil Bramley's Computational Cognitive Science Lab at the University of Edinburgh. -->
 
-I am currently investigating information cascades and the emergence of echo chambers through empirically informed agent-based simulations. A key focus of my PhD is to increase the cognitive sophistication of artificial agents to better account for the social- and cognitive determinants underlying the formation of echo chambers in lateral information systems (e.g., social media). I am also very interested in reinforcement learning and hypothesis generation, and I aim to combine this interest with my focus on multi-agent systems. 
+I am interested in multi-agent systems and probabilistic representations of beliefs (e.g., in graphical models). For example, I am interested in how optimal network configurations can be found to optimize network performance. Currently, I am investigating information cascades and the emergence of echo chambers through agent-based simulations. At the same time, I aim to develop a better understanding of how people deal with statistical dependencies in social learning. These findings might help to further improve current models of belief propagation.
 
-I previously worked as a graduate reseracher in [Dimitris Pinotsis' Lab](https://www.pinotsislab.com/) at City - University of London where I used dynamic causal modelling to investigate drivers of resting state activity in the rat's vibrissal somatosensory system. Prior to moving to London I worked as a research assistant in [Henry Otgaar's' Lab](https://henryotgaar.wixsite.com/henryotgaar) based in Maastricht. The results of my work as RA can be found [here](https://www.sciencedirect.com/science/article/pii/S0001691818302385).
+Besides my PhD, I am working as a tutor in Research Methods and Statistics at the University of Edinburgh. Prior to joining UoE, I worked as a graduate reseracher in [Dimitris Pinotsis' Computational Neuroscience Lab](https://www.pinotsislab.com/) at City - University of London where I used dynamic causal modelling to investigate drivers of resting state activity in the rat's vibrissal somatosensory system. Prior to moving to London I worked as a research assistant in [Henry Otgaar's' Lab](https://henryotgaar.wixsite.com/henryotgaar) based in Maastricht. The results of my work as RA can be found [here](https://www.sciencedirect.com/science/article/pii/S0001691818302385).
 
 
 

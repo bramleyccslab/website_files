@@ -1,5 +1,5 @@
 +++
-name = "Phil Newell"
+name = "Philip Newell"
 portrait = "/portraits/phil_newell.jpg"
 link = "https://sites.google.com/site/philipnewallresearch"
 

@@ -1,10 +1,10 @@
 +++
 name = "Eric Schulz"
 portrait = "/portraits/eric_schulz.jpg"
-link = "https://ericschulz.github.io/"
+link = "http://cpilab.org/"
 
 [[organizations]]
     name = "MPI, Tübingen"
-    role = "Postdoc"
+    role = "Research Group Leader"
 
 +++

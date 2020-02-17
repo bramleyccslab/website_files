@@ -8,7 +8,7 @@ name = "Tobias Thejll-Madsen"
 portrait = "/portraits/tobias.jpg"
 short_bio = "I'm interested in how people learn by themselves and in social settings"
 short_name = "Tobias"
-title = "Member 1"
+title = "Tobias"
 
 [[social]]
     icon = "envelope"
