@@ -1,5 +1,5 @@
 +++
-title = "Learning Hidden Causal Structure from Temporal Data"
+title = "Learning hidden causal structure from temporal data"
 date = "submitted"
 publication_types = ["4"]
 publication = ""

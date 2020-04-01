@@ -1,5 +1,5 @@
 +++
-title = "Broken Physics: A Conjunction Fallacy Effect in Intuitive Physical Reasoning"
+title = "Broken physics: A conjunction fallacy effect in intuitive physical reasoning"
 date = "submitted"
 publication_types = ["4"]
 publication = ""

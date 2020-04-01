@@ -2,7 +2,7 @@
 title = "What should causal learners value?"
 date = "2014-01-01"
 publication_types = ["0"]
-publication = "_Poster presented at the Annual Meeting of the Psychonomic Society_"
+publication = "Poster presented at _The Annual Meeting of the Psychonomic Society_"
 abstract = "Shannon entropy achieves higher accuracy than probability gain in causal learing. Many entropy functions achieve similar accuracy as Shannon entropy but the interventions chosen vary widely."
 abstract_short = ""
 image_preview = ""

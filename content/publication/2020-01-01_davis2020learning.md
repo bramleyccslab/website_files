@@ -1,5 +1,5 @@
 +++
-title = "Learning Fast and Slow in Dynamic Causal Systems"
+title = "Learning fast and slow in dynamic causal systems"
 date = "submitted"
 publication_types = ["4"]
 publication = ""
