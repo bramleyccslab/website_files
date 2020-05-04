@@ -1,8 +1,8 @@
 +++
 title = "Learning hidden causal structure from temporal data"
-date = "submitted"
+date = "2020-01-01"
 publication_types = ["4"]
-publication = ""
+publication = "Proceedings of the 42nd Annual Meeting of the Cognitive Science Society"
 abstract = "Past research indicates that humans can infer hidden causes from covariational evidence, and readily use temporal information to infer relationships among events. Here we explore a setting in which people can attribute events either to a common hidden cause or causal relationships among observed events including causal cycles, purely on the basis of timing information. We present data from three behavioral experiments and extend a previously proposed Bayesian model that makes use of order and delay information for causal structure learning with temporal information. Our findings support the idea that people rely on the delays between events rather than order information alone. Meanwhile, deviations from our model predictions suggest that people have an inductive bias against a common hidden cause and rely on heuristics to distinguish between causal structures, such as event overlaps, as least with the cover story considered in these experiments. Further, our data suggest that people have particularly flexible representations of cyclic relationships."
 abstract_short = ""
 image_preview = ""
