@@ -18,12 +18,12 @@ caption = ""
 	name = "Jan-Philipp Fränken"
 	is_member = true
 [[authors]]
-	name = "Neil R. Bramley"
-	is_member = true
-[[authors]]
 	name = "Nikolaos Theodoropoulos"
 	is_member = false
 [[authors]]
 	name = "Adam B. Moore"
 	is_member = false
+[[authors]]
+	name = "Neil R. Bramley"
+	is_member = true
 +++
