@@ -2,7 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "hectorotero"
-sort_position = "4"
+sort_position = "5"
 interests = ["Artificial Intelligence", "Reinforcement Learning", "Deep Learning", "Probabilistic Reasoning"]
 name = "Héctor Otero Mediero"
 portrait = "/portraits/hector.jpg"
