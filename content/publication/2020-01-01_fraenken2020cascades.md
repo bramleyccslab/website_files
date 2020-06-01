@@ -8,6 +8,7 @@ abstract_short = ""
 image_preview = ""
 selected = false
 url_project = "https://github.com/janphilippfranken/information_cascades_jpf_tdp_2020"
+url_preprint = "https://psyarxiv.com/8rgkc/"
 projects = []
 tags = []
 math = true

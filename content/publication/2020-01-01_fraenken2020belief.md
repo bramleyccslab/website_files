@@ -11,6 +11,9 @@ projects = []
 tags = []
 math = true
 highlight = true
+url_pdf = "/pdfs/fraenken2020belief.pdf"
+url_project = "https://github.com/janphilippfranken/belief_revision_cogsci_jpf_nct_am_nb_2020"
+url_custom = [{name = "Preregistration", url = "https://osf.io/ykuz2/"}]
 [header]
 image = ""
 caption = ""
