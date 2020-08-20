@@ -43,7 +43,7 @@ cv_link = "../../cv/tianwei.pdf"
 
 [[organizations]]
     name = "Edinburgh University"
-    role = "MRes Student"
+    role = "PhD Student"
 
 +++
 
@@ -51,6 +51,9 @@ I am broadly interested in how people represent the world, how they obtain these
 
 My previous work was related to various behavioural experiments, under topics of rational development, cross-cultural cognition, language processing, numerical representation. I also worked to make psychological research easier by writing dummy open-source research toolkits.
 
+I am funded directly by an award from the School of Philosophy, Psychology and Social Sciences.
+
+You can find my latest publications [**here**](/publication/).
 
 <!-- You can write $\LaTeX$ and *Markdown* here.
 

@@ -59,6 +59,8 @@ I am interested in multi-agent systems and probabilistic representations of beli
 
 Besides my PhD, I am working as a tutor in Research Methods and Statistics at the University of Edinburgh. Prior to joining UoE, I worked as a graduate reseracher in [Dimitris Pinotsis' Computational Neuroscience Lab](https://www.pinotsislab.com/) at City - University of London where I used dynamic causal modelling to investigate drivers of resting state activity in the rat's vibrissal somatosensory system. Prior to moving to London I worked as a research assistant in [Henry Otgaar's' Lab](https://henryotgaar.wixsite.com/henryotgaar) based in Maastricht. The results of my work as RA can be found [here](https://www.sciencedirect.com/science/article/pii/S0001691818302385).
 
+I am funded by a German Studienstiftung award (Germany's largest, oldest and most prestigious scholarship foundation).
 
+You can find my publications [**here**](/publication/).
 
 <!-- You can write $\LaTeX$ and *Markdown* here. -->

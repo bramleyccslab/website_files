@@ -49,3 +49,7 @@ I'm interested in how people come to *know* from observation, intervention, and 
 My previous work has combined statistical analysis from empirical data and formal methods in modelling to approach questions in children's logical reasoning, dynamics in social networks, and richer notion of rationality in game theory. Recently I am attracted by the program induction paradigm, and I want to learn more about this during my PhD.
 
 My name is written as 赵博囡 in simplified Chinese.  Pronunciation with tones is Zhào-Bó-Nān.
+
+I am funded by a PhD Research Award from the College of Arts, Humanities and Social Sciences.
+
+You can find my publications [**here**](/publication/).

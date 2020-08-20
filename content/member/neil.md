@@ -67,13 +67,15 @@ cv_link = "../../cv/neil.pdf"
 <!-- I am a cognitive scientist and Moore-Sloan post-doctoral associate in Todd Gureckis' computation and cognition lab and the Centre for Data Science at New York University.  -->
 
 
-I am interested in higher level cognition.  That is, how people represent the world and think about its alternatives, plus how they use these abilities to plan, imagine, explain, blame and solve problems.  I generally use interactive experiments and games combined with computational modelling to investigate these issues.
+I study how people represent the actual world and think about its alternatives, plus how they use these abilities to plan, imagine, explain, blame and solve problems.  I generally use interactive experiments and games combined with computational modelling to investigate these issues.
 
-Much of my research has studied how people use interventions (roughly, actions that "tinker" with causal variables in an environment or system of interest) to learn about causal relationships.  A major output of this work is a model of incremental, boundedly rational human learning in which wholesale belief change takes place through a sequence of targeted local changes.
+Much of my research has studied how people use interventions (roughly, actions that "tinker" with causal variables in an environment or system of interest) to learn about relevant causal relationships.  A major output of this work is a theory of incremental, boundedly rational human learning in which wholesale belief change takes place through a sequence of targeted local changes.
 
-I am currently exploring extensions of this idea to capture how people discover and construct novel theories and hypotheses.  This line of work incorporates probabilistic grammars and "[program induction](https://programinduction.github.io)" ideas to model theory generation in compositional theory spaces.
+Some of my reserach is funded by an EPSRC New Investigator Award on *Computational Constructivism: The Algorithmic Basis of Discovery*. In this project, we are currently exploring accounts of how people discover and construct novel theories and hypotheses.  This line of work incorporates probabilistic grammars and "[program induction](https://programinduction.github.io)" ideas to model human and AI theory generation in compositional theory spaces.
 
-*I started as lecturer in cognitive psychology at the University of Edinburgh in January 2019.* [**_Get in touch_**](mailto:neil.bramley@ed.ac.uk) *if you are interested in doing a PhD or postdoc.*
+You can find my publications [**here**](/publication/).
+
+Please [**_get in touch_**](mailto:neil.bramley@ed.ac.uk) *if you are interested in doing a PhD or postdoc!*
 <!-- You can write $\LaTeX$ and *Markdown* here. -->
 
 <!-- # Minyae adgnoscitque fugiebat parentis ausum superos huius -->

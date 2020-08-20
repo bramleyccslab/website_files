@@ -33,18 +33,14 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title = "About"
-    text =  "Bramley Lab is a brand new computational cognitive science focused lab.  We are based in Psychology, in the School of Philosophy, Psychology, and Language Sciences, at the University of Edinburgh."
+    text =  "Bramley Lab is a computational cognitive science focused lab.  We are based in Psychology, in the School of Philosophy, Psychology, and Language Sciences, at the University of Edinburgh.  We are currently looking for an excellent postdoc to join the team."
     link = "mailto:bramleylab@ed.ac.uk"
     link_text = "Apply to work in the lab"
     weight = 1
   
   [[params.slogan_columns]]
     title = "Mission"
-    text = "We are interested in understanding the building blocks of human intelligence.  In particular, our lab focuses on *active learning, causality, hypothesis generation*, and *control*."
-    #**active learning** (how people gather information), **causality** (how they represent the world's dynamics),  **discovery** (how people generate new ideas), and **control** how people use their knowledge to achieve their goals)."
-
-
-    #Much of the lab's research focuses on how people learn about causal structure and how they gather new information during extended interactions with their environment.    The lab is run by Neil Bramley.  I am a new lecturer in Cognitive Psychology at the University of Edinburgh.  Previously a Moore-Sloan Data Science Environment postdoc at New York University. In my personal line of research, I use interactive experiments and games combined with computational modelling to study how people learn, represent, and reason about the world."
+    text = "We are interested in understanding the building blocks of human intelligence.  In particular, current lab members focus on *active learning, causality, generalisation, hypothesis generation*, and *control*. We are currently part funded by an EPSRC New Investigator Award on **Computational Constructivism**."
     link = "/research"
     link_text = "More about our research"
     weight = 2
