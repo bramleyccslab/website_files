@@ -9,6 +9,7 @@ portrait = "/portraits/yuyan.jpg"
 short_bio = "Interested in decision making and learning."
 short_name = "Yuyan Zhang"
 title = "Yuyan"
+is_former_member = "True"
 
 [[social]]
     icon = "envelope"

@@ -6,26 +6,20 @@
     {{/* The context, ".", is now each one of the pages as it goes through the loop */}}
     {{ printf "%#v" . }}
 {{ end }} -->
-                    
-<!-- Publications Section -->
-{{ partial "index/publications.html" . }}
 
 <!-- Members -->
 {{ partial "index/members.html" . }}
 
+<!-- Publications Section -->
+{{ partial "index/publications.html" . }}
+
+<!-- Alumni -->
+{{ partial "index/alumni.html" . }}
+
 <!-- Affiliates Section -->
-{{ partial "index/affiliates.html" . }}
+{{ partial "index/collaborators.html" . }}
 
-<!-- Projects Section -->
-{{ partial "index/projects.html" . }}
 
-<!-- {{ partial "index/demos.html" . }} -->
-
-<!-- Blog Posts Section -->
-{{ partial "index/posts.html" . }}
-
-<!-- Vacancies -->
-{{ partial "index/vacancies.html" . }}
 
 <!-- Contact Section -->
 {{ if .Site.Params.contact.enable }}

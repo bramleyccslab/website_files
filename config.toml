@@ -33,21 +33,21 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title = "About"
-    text =  "Bramley Lab is a computational cognitive science focused lab.  We are based in Psychology, in the School of Philosophy, Psychology, and Language Sciences, at the University of Edinburgh.  We are currently looking for an excellent postdoc to join the team."
+    text =  "Bramley Lab is an interdisciplinary research group consisting of computational cognitive scientists, psychologists, philosophers and computer scientists. We are based in the Psychology department wihin the School of Philosophy, Psychology, and Language Sciences, at the University of Edinburgh."
     link = "mailto:bramleylab@ed.ac.uk"
-    link_text = "Apply to work in the lab"
+    link_text = "Get in touch"
     weight = 1
   
   [[params.slogan_columns]]
     title = "Mission"
-    text = "We are interested in understanding the building blocks of human intelligence.  In particular, current lab members focus on *active learning, causality, generalisation, hypothesis generation*, and *control*. We are currently part funded by an EPSRC New Investigator Award on **Computational Constructivism**."
+    text = "We are interested in understanding the building blocks of human intelligence.  In particular, current lab members focus on *causal cognition, active learning, generalisation, hypothesis generation*, and *control*. We are part funded by an EPSRC New Investigator Award on **Computational Constructivism**."
     link = "/research"
     link_text = "More about our research"
     weight = 2
 
   [[params.slogan_columns]]
     title = "Approach"
-    text = "We take a computational approach to studying human cognition.  This usually involves running behavioural experiments in the lab or online alongside computational models."
+    text = "We take a computational approach to studying human cognition and the basis of intelligent behaviour.  This typically involves a mixture of running behavioural experiments with adults and children alongside building computational models that synthesise humanlike learning, representation and behaviour."
 
     #using [psiTurk](https://psiturk.org/) and websites like [Amazon mechanical Turk](https://www.mturk.com/) and [Prolific Academic](https://prolific.ac/).  We build and compare computational models and simulations against human data."
     link = "/demo"

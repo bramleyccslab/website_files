@@ -2,7 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "janphilipp"
-sort_position = "1"
+sort_position = "3"
 interests = [ "Multi-agent Systems", "Probabilistic Beliefs", "Information Cascades", "Graphical modeling"]
 name = "Jan-Philipp Fränken"
 portrait = "/portraits/janphilipp.jpg"

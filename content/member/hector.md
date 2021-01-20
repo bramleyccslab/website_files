@@ -2,7 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "hectorotero"
-sort_position = "5"
+sort_position = "6"
 interests = ["Artificial Intelligence", "Reinforcement Learning", "Deep Learning", "Probabilistic Reasoning"]
 name = "Héctor Otero Mediero"
 portrait = "/portraits/hector.jpg"
@@ -37,7 +37,7 @@ cv_link = "../../cv/hector.pdf"
     year = 2017
 
 [[organizations]]
-    role = "Postgrad Research Associate"
+    role = "Research Associate"
 
 +++
 

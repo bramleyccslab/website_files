@@ -2,7 +2,7 @@
 bio = ""
 date = "2019-08-23T23:33:33+03:00"
 id = "bonan"
-sort_position = "2"
+sort_position = "3"
 interests = ["Causality", "Learning", "Agency", "Bayesian inference" ]
 name = "Bonan Zhao"
 portrait = "/portraits/bonan.jpg"
