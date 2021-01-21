@@ -3,7 +3,7 @@ bio = ""
 date = "2019-08-23T23:33:33+03:00"
 id = "bonan"
 sort_position = "3"
-interests = ["Causality", "Learning", "Agency", "Bayesian inference" ]
+interests = ["Causal reasoning", "Generalization", "Compositionality", "Bayesian inference" ]
 name = "Bonan Zhao"
 portrait = "/portraits/bonan.jpg"
 short_bio = "Interested in causal generalisation."
@@ -17,9 +17,19 @@ cv_link = "../../cv/bonan.pdf"
     link = "mailto:b.zhao@ed.ac.uk"
 
 [[social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/BonanZhao/"
+
+[[social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.com/citations?user=IXfhbkQAAAAJ&hl=en/"
+
+[[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/zhaobn/"
+    link = "https://github.com/zhaobn/"
 
 [[education]]
     course = "PhD in Psychology"
@@ -44,11 +54,15 @@ cv_link = "../../cv/bonan.pdf"
 
 <!-- You can write $\LaTeX$ and *Markdown* here. -->
 
-I'm interested in how people come to *know* from observation, intervention, and imagination. In particular, I'm interested in how human cognition shapes the kind of knowledge we could possibly learn. My PhD project is focused on causal generalisation - how causal inferences learned in one situation are tested, applied, or updated in another. I believe such understanding of human cognition can help computer programs learn more efficiently.
+How do people use previous experience to navigate through novel situations?
+What's the role of causal reasoning in these processes?
+How do we solve the intractibility problem of Bayesian inference in modeling causal generalization?
+I study these questions using interactive online experiments and a hybrid approach combining symbolic and sub-symbolic techniques.
 
-My previous work has combined statistical analysis from empirical data and formal methods in modelling to approach questions in children's logical reasoning, dynamics in social networks, and richer notion of rationality in game theory. Recently I am attracted by the program induction paradigm, and I want to learn more about this during my PhD.
-
-My name is written as 赵博囡 in simplified Chinese.  Pronunciation with tones is Zhào-Bó-Nān.
+Before my PhD, I was a data scientist/engineer in a Dutch adtech startup.
+I obtained my MSc in Logic from the Institute of Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)) at the University of Amsterdam,
+and a Bachelor in Philosophy from Tsinghua University in Beijing, China.
+My name is 赵博囡 in simplified Chinese - pronunciation with tones: Zhào-Bó-Nān.
 
 I am funded by a PhD Research Award from the College of Arts, Humanities and Social Sciences.
 
