@@ -7,7 +7,7 @@ canonifyurls = true
 theme = "hugo-academic-group"
 title = "Bramley Computational Cognitive Science Lab"
 math = true
-copyright = "&copy; Neil Bramley, 2018. Banner photo credit Eric Schulz."
+copyright = "&copy; Neil Bramley, 2018."
 
 
 
