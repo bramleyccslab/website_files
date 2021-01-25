@@ -3,7 +3,7 @@ bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "tianwei"
 sort_position = "3"
-interests = ["Bayesian inference","Causality", "Mental simulation","Evolution and adaptation"]
+interests = ["Causality in time","Bounded rationality", "Bayesian inference","Evolution and adaptation"]
 name = "Tianwei Gong"
 portrait = "/portraits/tianwei.jpg"
 short_bio = "Interested in causality and time."
@@ -32,6 +32,11 @@ cv_link = "../../cv/tianwei.pdf"
     link = "https://github.com/tianweigong"
 
 [[education]]
+    course = "PhD in Psychology"
+    institution = 'University of Edinburgh'
+    year = 2024
+
+[[education]]
     course = "MRes in Psychology"
     institution = 'University of Edinburgh'
     year = 2020
@@ -47,13 +52,17 @@ cv_link = "../../cv/tianwei.pdf"
 
 +++
 
-I am broadly interested in how people represent the world, how they obtain these representations, and how they apply them efficiently. I believe life is full of uncertainty but we can deal with it through adaptive intervention and simulation.
+Hi! You can call me Tia. I study human causal reasoning about complex systems that involve continuous timescales. My research is motivated by questions like: how do people make causal inferences so efficiently and adaptively with limited cognitive recourses? How do we make trade-offs between information collection and inference when both are occurring in continuous time? What information do we outweigh from the large continuous data flow? How do we know not only what to intervene on but also when to intervene if we can actively learn a causal system? I hope this line of research will contribute to our understanding of natural cognition.
+
+I am funded directly by the PhD scholarship of School of Philosophy, Psychology and Social Sciences. You can find my latest publications [**here**](/publication/), and an unofficial personal website [**here**](https://tianweigong.github.io/).
+
+<!-- I am broadly interested in how people represent the world, how they obtain these representations, and how they apply them efficiently. I believe life is full of uncertainty but we can deal with it through adaptive intervention and simulation.
 
 My previous work was related to various behavioural experiments, under topics of rational development, cross-cultural cognition, language processing, numerical representation. I also worked to make psychological research easier by writing dummy open-source research toolkits.
 
 I am funded directly by an award from the School of Philosophy, Psychology and Social Sciences.
 
-You can find my latest publications [**here**](/publication/).
+You can find my latest publications [**here**](/publication/). -->
 
 <!-- You can write $\LaTeX$ and *Markdown* here.
 
