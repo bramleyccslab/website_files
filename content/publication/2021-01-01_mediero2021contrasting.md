@@ -9,6 +9,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
+url_preprint = "https://psyarxiv.com/csptw/"
 math = true
 highlight = true
 [header]
