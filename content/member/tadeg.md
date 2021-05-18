@@ -6,7 +6,7 @@ sort_position = "5"
 interests = ["Causality", "Evolutionary game theory", "Concepts", "Bayesian inference" ]
 name = "Tadeg Quillien"
 portrait = "/portraits/tadeg.jpg"
-short_bio = "interested in causality, concepts, and evolutionary biology."
+short_bio = "Interested in causality, concepts, and evolutionary biology."
 short_name = "Tadeg"
 title = "Tadeg"
 

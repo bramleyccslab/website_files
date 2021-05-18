@@ -71,7 +71,7 @@ I study how people represent the actual world and think about its alternatives, 
 
 Much of my research has studied how people use interventions (roughly, actions that "tinker" with causal variables in an environment or system of interest) to learn about relevant causal relationships.  A major output of this work is a theory of incremental, boundedly rational human learning in which wholesale belief change takes place through a sequence of targeted local changes.
 
-Some of my reserach is funded by an EPSRC New Investigator Award on *Computational Constructivism: The Algorithmic Basis of Discovery*. In this project, we are currently exploring accounts of how people discover and construct novel theories and hypotheses.  This line of work incorporates probabilistic grammars and "[program induction](https://programinduction.github.io)" ideas to model human and AI theory generation in compositional theory spaces.
+Some of my research is funded by an EPSRC New Investigator Award on *Computational Constructivism: The Algorithmic Basis of Discovery*. In this project, we are currently exploring accounts of how people discover and construct novel theories and hypotheses.  This line of work incorporates probabilistic grammars and "[program induction](https://programinduction.github.io)" ideas to model human and AI theory generation in compositional theory spaces.
 
 You can find my publications [**here**](/publication/).
 

@@ -2,7 +2,7 @@
 title = "Know your network: Sensitivity to structure in social learning"
 date = "submitted"
 publication_types = ["4"]
-publication = ""
+publication = "_In Preparation_"
 abstract = "To glean information from social networks, people must be adept at distinguishing real evidence from hearsay. Here, we investigate human inferences within a simulated social network. We introduce a novel social learning task in which participants infer their surrounding social network structure while also using social communications to aid judgments about the shared environment. We find that the majority of adults correctly identified independent and acyclic network structures, though they struggled to identify cyclic communications. Comparison of judgments with several social inference models supports a naive social learning account that integrates social evidence with the learner's own observations in a structure insensitive way. This suggests that people are capable of using communication patterns to identify social influences, but they are still misled by the distortions of evidence that these network dynamics can produce."
 abstract_short = ""
 image_preview = ""
