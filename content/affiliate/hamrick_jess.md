@@ -5,6 +5,6 @@ link = "http://www.jesshamrick.com/"
 
 [[organizations]]
     name = "Deep Mind"
-    role = "Researcher"
+    role = "Research Scientist"
 
 +++

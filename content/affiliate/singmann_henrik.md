@@ -4,6 +4,6 @@ portrait = "/portraits/henrik_singmann.jpg"
 link = "http://singmann.org/"
 
 [[organizations]]
-    name = "University of Warwick"
+    name = "University College London"
     role = "Assistant Professor"
 +++

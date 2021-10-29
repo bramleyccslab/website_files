@@ -5,6 +5,6 @@ link = "http://www.jonathandnelson.com/"
 
 [[organizations]]
     name = "University of Surrey"
-    role = "Lecturer"
+    role = "Senior Lecturer"
 
 +++
