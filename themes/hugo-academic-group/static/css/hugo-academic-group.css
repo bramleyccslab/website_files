@@ -390,7 +390,7 @@ ul.share li:hover .fa {
  **************************************************/
 
 .article-title {
-    font-size: 1.75rem;
+    font-size: 1.3rem;
 }
 
 /*h3.article-title a {
@@ -582,7 +582,7 @@ img.in-text {
 .pub-list-item .pub-authors {
     line-height: normal;
     font-style: normal;
-    font-size: 1.13em;
+    font-size: 1em;
     /*color: #3170A5;*/
 }
 
