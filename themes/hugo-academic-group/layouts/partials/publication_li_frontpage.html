@@ -23,7 +23,7 @@
             </h3>
 
             <div class="pub-authors" itemprop="author">
-                {{ partial "authors" .Params.authors}}
+                {{ partial "authors" .Params.authors}} 
             </div>
 
             <div class="pub-publication">
@@ -38,9 +38,9 @@
                     </br>
                 {{ end }}
                 
-<!--                 {{ if ne (.Date.Format "2006") "0001"}}
+                {{ if ne (.Date.Format "2006") "0001"}}
                     ({{ .Date.Format "2006" }})
-                {{ end }} -->
+                {{ end }}
 
             </div>
 

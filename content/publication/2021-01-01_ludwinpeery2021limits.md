@@ -2,7 +2,7 @@
 title = "Limits on Simulation Approaches in Intuitive Physics"
 date = "2021-01-01"
 publication_types = ["1"]
-publication = "_Cognitive Psychology_"
+publication = "_Cognitive Psychology_ 127 (101396)"
 abstract = "In this paper, we describe three experiments involving simple physical judgments and predictions, and argue their results are generally inconsistent with three core commitments of probabilistic mental simulation theory (PMST). The first experiment shows that people routinely fail to track the spatio-temporal identity of objects. The second experiment shows that people often incorrectly reverse the order of consequential physical events when making physical predictions. Finally, we demonstrate a physical version of the conjunction fallacy where participants rate the probability of two joint events as more likely to occur than a constituent event of that set. These results highlight the limitations or boundary conditions of simulation theory."
 abstract_short = ""
 image_preview = ""

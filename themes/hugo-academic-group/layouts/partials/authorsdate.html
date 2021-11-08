@@ -1,0 +1,30 @@
+{{$authors_len := len . }}
+<div itemprop="author">
+        {{if gt $authors_len 1}}
+            {{ range first (sub $authors_len 1) . }}
+                {{ if .is_member }}
+                    <a href="/member{{.link}}">{{.name}}</a>,
+                {{else}}
+                    {{.name}},
+                {{end}}
+            {{ end }}
+            {{ range last 1 . }}
+                {{ if .is_member }}
+                    <a href="/member{{.link}}">{{.name}}</a>
+                {{else}}
+                    {{.name}}
+                {{end}}
+            {{end}}
+        {{else}}
+            {{range . }}
+                {{ if .is_member }}
+                    <a href="/member{{.link}}">{{.name}}</a>
+                {{else}}
+                    {{.name}}
+                {{end}}
+            {{end}}
+        {{end}}
+        {{ if ne (.Date.Format "2006") "0001"}}
+            ({{ .Date.Format "2006" }})
+        {{ end }}
+</div>

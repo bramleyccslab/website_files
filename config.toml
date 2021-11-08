@@ -34,8 +34,8 @@ tag = "tags"
   [[params.slogan_columns]]
     title = "About"
     text =  "Bramley Lab is an interdisciplinary group of cognitive scientists, psychologists, philosophers and computer scientists and a part of the larger Computational Cognitive Science Lab in the Psychology department at the University of Edinburgh. We also collaborate extensively with the Cognitive Science groups in Edinburgh Informatics"
-    link = "mailto:bramleylab@ed.ac.uk"
-    link_text = "Get in touch"
+    link = "https://www.compcogsci.ppls.ed.ac.uk/"
+    link_text = "CompCogSci at Edinburgh"
     weight = 1
   
   [[params.slogan_columns]]
@@ -50,8 +50,8 @@ tag = "tags"
     text = "We take a computational approach to studying human cognition and the basis of intelligent behaviour.  This typically involves a mixture of running behavioural experiments with adults and children alongside building computational models that synthesise humanlike learning, representation and behaviour."
 
     #using [psiTurk](https://psiturk.org/) and websites like [Amazon mechanical Turk](https://www.mturk.com/) and [Prolific Academic](https://prolific.ac/).  We build and compare computational models and simulations against human data."
-    link = "https://www.compcogsci.ppls.ed.ac.uk/"
-    link_text = "CompCogSci at Edinburgh"
+    link = "mailto:bramleylab@ed.ac.uk"
+    link_text = "Get in touch"
     weight = 3
 
   # Selected Publications section. (NB: Doesn't seem like this is used??)

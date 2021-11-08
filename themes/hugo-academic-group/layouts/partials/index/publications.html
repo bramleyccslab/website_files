@@ -12,7 +12,7 @@
                 {{ range  (where .Data.Pages "Type" "publication") }}
                     <!-- {{ printf "%#v" .Params.selected }} first .Site.Params.publications.count -->
                     {{ if .Params.selected }}
-                        {{ partial "publication_li_detailed" . }}
+                        {{ partial "publication_li_frontpage" . }}
                     {{ end }}
                 {{ end }}
             </div>
