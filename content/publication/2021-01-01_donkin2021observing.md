@@ -6,6 +6,7 @@ publication = "_Behavioral and Brain Sciences_"
 abstract = "Generalization does not come from repeatedly observing phenomena in numerous settings, but from theories explaining what is general in those phenomena. Expecting future behavior to look like past observations is especially problematic in psychology, where behaviors change when people’s knowledge changes. Psychology should thus focus on theories of people’s capacity to create and apply new representations of their environments."
 abstract_short = ""
 image_preview = ""
+url_preprint = "https://psyarxiv.com/kpycz/"
 selected = false
 projects = []
 tags = []

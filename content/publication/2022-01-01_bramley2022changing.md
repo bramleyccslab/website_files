@@ -16,11 +16,11 @@ highlight = true
 image = ""
 caption = ""
 [[authors]]
-	name = "Angela Jones"
-	is_member = false
-[[authors]]
 	name = "Neil R. Bramley"
 	is_member = true
+[[authors]]
+	name = "Angela Jones"
+	is_member = false
 [[authors]]
 	name = "Todd M. Gureckis"
 	is_member = false
