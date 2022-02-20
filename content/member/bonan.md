@@ -66,4 +66,4 @@ My name is 赵博囡 in simplified Chinese - pronunciation with tones: Zhào-Bó
 
 I am funded by a PhD Research Award from the College of Arts, Humanities and Social Sciences.
 
-You can find my publications [**here**](/publication/).
+You can find my publications and personal website [**here**](https://zhaobn.github.io).
