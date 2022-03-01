@@ -54,16 +54,15 @@ cv_link = "../../cv/bonan.pdf"
 
 <!-- You can write $\LaTeX$ and *Markdown* here. -->
 
-How do people use previous experience to navigate through novel situations?
-What's the role of causal reasoning in these processes?
-How do we solve the intractibility problem of Bayesian inference in modeling causal generalization?
-I study these questions using interactive online experiments and a hybrid approach combining symbolic and sub-symbolic techniques.
-
-Before my PhD, I was a data scientist/engineer in a Dutch adtech startup.
-I obtained my MSc in Logic from the Institute of Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)) at the University of Amsterdam,
-and a Bachelor in Philosophy from Tsinghua University in Beijing, China.
-My name is 赵博囡 in simplified Chinese - pronunciation with tones: Zhào-Bó-Nān.
-
-I am funded by a PhD Research Award from the College of Arts, Humanities and Social Sciences.
-
+I build computational models of human cognition, with a particular interest in causal generalization.
+I take a hybrid approach combining symbolic representations, Bayesian approximate inference, and online interactive experimentation.
 You can find my publications and personal website [**here**](https://zhaobn.github.io).
+
+I was born and grew up in northen China, and studied philosophy for my bachelor's at Tsinghua University in Beijing.
+With a yearning desire for rationality and formal systems, I crossed the continent and pursued MSc in Logic at the Institute of Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)) in Amsterdam.
+There, I discovered cognitive science.
+After my MSc, I worked two years in data science and programming in Amsterdam.
+Though the job was fun and the team was great, I kept hearing a strong inner call for researching the human mind, especially with all the latest computational methods.
+That brought me to Edinburgh, doing my PhD with Neil and Chris, supported by a PhD Research Award from the College of Arts, Humanities and Social Sciences.
+
+Feel free to contact me at b.zhao at ed.ac.uk.
