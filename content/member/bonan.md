@@ -56,13 +56,12 @@ cv_link = "../../cv/bonan.pdf"
 
 I build computational models of human cognition, with a particular interest in causal generalization.
 I take a hybrid approach combining symbolic representations, Bayesian approximate inference, and online interactive experimentation.
-You can find my publications and personal website [**here**](https://zhaobn.github.io).
 
-I was born and grew up in northen China, and studied philosophy for my bachelor's at Tsinghua University in Beijing.
+I grew up in eastern China, and studied philosophy for my bachelor's at Tsinghua University in Beijing.
 With a yearning desire for rationality and formal systems, I crossed the continent and pursued MSc in Logic at the Institute of Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)) in Amsterdam.
 There, I discovered cognitive science.
-After my MSc, I worked two years in data science and programming in Amsterdam.
+After my MSc, I worked two years in data science and engineering in an Amsterdam startup.
 Though the job was fun and the team was great, I kept hearing a strong inner call for researching the human mind, especially with all the latest computational methods.
 That brought me to Edinburgh, doing my PhD with Neil and Chris, supported by a PhD Research Award from the College of Arts, Humanities and Social Sciences.
 
-Feel free to contact me at b.zhao at ed.ac.uk.
+You can find my publications and personal website [**here**](https://zhaobn.github.io).
