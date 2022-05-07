@@ -9,6 +9,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
+url_pdf = "/pdfs/xia2022dissecting.pdf"
 math = true
 highlight = true
 [header]
