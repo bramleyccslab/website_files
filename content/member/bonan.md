@@ -64,4 +64,4 @@ After my MSc, I worked two years in data science and engineering in an Amsterdam
 Though the job was fun and the team was great, I kept hearing a strong inner call for researching the human mind, especially with all the latest computational methods.
 That brought me to Edinburgh, doing my PhD with Neil and Chris, supported by a PhD Research Award from the College of Arts, Humanities and Social Sciences.
 
-You can find my publications and personal website [**here**](https://zhaobn.github.io).
+You can find my publications [**here**](https://zhaobn.github.io).
