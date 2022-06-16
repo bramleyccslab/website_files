@@ -7,11 +7,11 @@ abstract = "Recent work has shown that people use temporal information including
 abstract_short = ""
 url_pdf = "/pdfs/rehder2022paradox.pdf"
 image_preview = ""
-selected = false
+selected = true
 projects = []
 tags = []
 math = true
-highlight = false
+highlight = true
 [header]
 image = ""
 caption = ""
