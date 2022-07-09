@@ -12,18 +12,19 @@ copyright = "&copy; Neil Bramley, 2018."
 
 
 [taxonomies]
-category = "categories"
-tag = "tags"
+category = "causality, active learning, computation"
+tag = "causality, active learning, computation"
 
 
 [params]
   description = "Computational Cognitive Science Group"
   author = "Neil Bramley"
+  name = "Neil Bramley"
   email = "bramleylab@ed.ac.uk"
   address = "Room S2, 7 George Square, EH8 9JZ, Scotland"
   phone = "+44 131 650 4643"
   custom_css = ["bramleycustom.css"]
-
+  role = "Computational Cognitive Science Group focusing on causality, active learning and computation"
   slogan = "Bramley Lab"
   slogan_text = "Computational Cognitive Science Group at the University of Edinburgh"
 
