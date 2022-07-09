@@ -25,7 +25,7 @@ tag = "causality, active learning, computation"
   phone = "+44 131 650 4643"
   custom_css = ["bramleycustom.css"]
   role = "Computational Cognitive Science Group focusing on causality, active learning and computation"
-  slogan = "Bramley Lab"
+  slogan = "Bramley Computational Cognitive Science Lab"
   slogan_text = "Computational Cognitive Science Group at the University of Edinburgh"
 
   [params.logo]
