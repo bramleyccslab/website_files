@@ -33,7 +33,7 @@ title = "Fahd"
 
 [[organizations]]
     name = "University of Edinburgh"
-    role = "Affiliated PhD Student"
+    role = "PhD Student"
     year = 2022
 +++
 

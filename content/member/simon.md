@@ -37,7 +37,7 @@ title = "Simon"
 
 [[organizations]]
     name = "10 Crichton St, EH8 9AB"
-    role = "Affiliated PhD Student"
+    role = "PhD Student"
 
 +++
 
