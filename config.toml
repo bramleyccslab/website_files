@@ -34,9 +34,9 @@ tag = "causality, active learning, computation"
 
   [[params.slogan_columns]]
     title = "About"
-    text =  "Bramley Lab is an interdisciplinary group of cognitive scientists, psychologists, philosophers and computer scientists and a part of the larger Computational Cognitive Science Lab in the Psychology department at the University of Edinburgh. We also collaborate extensively with the Cognitive Science groups in Edinburgh Informatics"
-    link = "https://www.compcogsci.ppls.ed.ac.uk/"
-    link_text = "CompCogSci at Edinburgh"
+    text =  "Bramley Lab is based the school of Philosophy, Psychology and Language Sciences at the University of Edinburgh. We are an interdisciplinary group of cognitive scientists, psychologists, philosophers and computer scientists and one part of a larger Computational Cognitive Science community spanning PPLS and Informatics."
+    link = "https://lucaslab-uoe.github.io/people/"
+    link_text = "More CogSci at Edinburgh"
     weight = 1
   
   [[params.slogan_columns]]
