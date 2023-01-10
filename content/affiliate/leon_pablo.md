@@ -4,7 +4,7 @@ portrait = "/portraits/pablo_leon.jpg"
 link = "https://pabloleon.netlify.com/"
 
 [[organizations]]
-    name = "University of Warwick"
+    name = "Brown University
     role = "Postdoc"
 
 +++

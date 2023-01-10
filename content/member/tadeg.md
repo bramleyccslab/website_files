@@ -2,7 +2,7 @@
 bio = ""
 date = "2019-08-23T23:33:33+03:00"
 id = "quillien"
-sort_position = "5"
+sort_position = "1"
 interests = ["Causality", "Evolutionary game theory", "Concepts", "Bayesian inference" ]
 name = "Tadeg Quillien"
 portrait = "/portraits/tadeg.jpg"
@@ -38,7 +38,7 @@ title = "Tadeg"
 
 [[organizations]]
     name = "7 George Square, EH8 9JZ"
-    role = "Affiliated postdoc"
+    role = "Postdoc"
 
 +++
 

@@ -5,6 +5,6 @@ link = "http://homepages.inf.ed.ac.uk/clucas2/"
 
 [[organizations]]
     name = "University of Edinburgh"
-    role = "Lecturer"
+    role = "Reader"
 
 +++

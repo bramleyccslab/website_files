@@ -33,7 +33,7 @@ is_former_member = "True"
 
 [[organizations]]
     name = "University of Edinburgh"
-    role = "MSc Student"
+    role = "MSc 2020, now PhD student at Glasgow"
 
 +++
 I'm interested in all things learning.  Specifically, for my MSc I'm looking at how people actively learn about the world by interacting and trying hypotheses while in a social context with another learner.  Understanding how social and active learning interact can help inform education, another big passion of mine, and safe human-like AI. 

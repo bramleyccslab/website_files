@@ -5,6 +5,6 @@ link = "https://speekenbrink-lab.github.io/people"
 
 [[organizations]]
     name = "UCL"
-    role = "Senior Lecturer"
+    role = "Professor"
 
 +++

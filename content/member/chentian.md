@@ -2,7 +2,7 @@
 bio = ""
 date = "2021-01-20"
 id = "chentian"
-sort_position = "5"
+sort_position = "6"
 interests = ["Causal Learning", "Transfer Learning", "Program Induction"]
 name = "Chentian Jiang"
 portrait = "/portraits/chentian.jpg"

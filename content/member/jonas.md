@@ -28,7 +28,7 @@ is_former_member = "True"
 
 [[organizations]]
     name = "Unibersity of Edinburgh"
-    role = "MSc Student"
+    role = "MSc 2020, now PhD student at McGill"
 
 +++
 

@@ -10,6 +10,7 @@ short_bio = "Interested in representation learning and concept learning."
 short_name = "Jan-Philipp"
 title = "Philipp"
 cv_link = "../../cv/janphilipp.pdf"
+is_former_member = "True"
 
 [[social]]
     icon = "envelope"
@@ -44,7 +45,7 @@ cv_link = "../../cv/janphilipp.pdf"
 
 [[organizations]]
     name = "7 George Square, EH8 9JZ"
-    role = "PhD Student"
+    role = "PhD 2019-2022, now Postdoc at Stanford"
 
 +++
 

@@ -33,7 +33,7 @@ is_former_member = "True"
 
 [[organizations]]
     name = "Edinburgh University"
-    role = "MSc Student"
+    role = "MSc 2020, now senior manager at Amazon Alexa"
 
 +++
 

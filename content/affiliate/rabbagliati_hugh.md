@@ -5,6 +5,6 @@ link = "https://www.ed.ac.uk/profile/hugh-rabagliati"
 
 [[organizations]]
     name = "University of Edinburgh"
-    role = "Reader"
+    role = "Professor"
 
 +++
