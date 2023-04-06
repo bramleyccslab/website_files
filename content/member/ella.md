@@ -14,7 +14,7 @@ cv_link = "../../cv/ella.pdf"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:e.markham@ed.ac.uk"
+    link = "mailto:E.Markham@sms.ed.ac.uk"
 
 [[education]]
     course = "PhD in Natural Language Processing"
