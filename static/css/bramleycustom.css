@@ -32,9 +32,17 @@ can i a) check b) change this?*/
 }
 
 .article-title {
-    font-size: 1.1em;
+    font-size: 0.9em;
     margin-top:  2px;
     margin-bottom:  2px;
+}
+
+.pub-list-item .pub-authors {
+    font-size: 0.8em;
+}
+
+.pub-list-item .pub-publication  {
+    font-size: 0.8em;
 }
 
 #article-title-custom {

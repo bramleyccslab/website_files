@@ -10,6 +10,7 @@ selected = false
 projects = []
 tags = []
 url_project = "https://github.com/janphilippfranken/FrankenValentinLucasBramley2022"
+url_preprint = "https://psyarxiv.com/d3wxm/"
 math = true
 highlight = false
 [header]

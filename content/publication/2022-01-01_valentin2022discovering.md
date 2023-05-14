@@ -7,6 +7,7 @@ abstract = "Human cognition is marked by the ability to explain patterns in the 
 abstract_short = ""
 image_preview = ""
 url_custom = [{name = "Pre-registration", url = "https://osf.io/e5d23"}]
+url_pdf = "https://link.springer.com/article/10.1007/s42113-022-00156-z"
 selected = true
 projects = []
 tags = []

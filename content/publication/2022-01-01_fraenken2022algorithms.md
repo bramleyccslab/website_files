@@ -9,6 +9,7 @@ image_preview = ""
 selected = true
 url_project = "https://github.com/janphilippfranken/FrankenTheodoropoulosBramley2022"
 url_preprint = "https://psyarxiv.com/ysndt/"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0010028522000421"
 projects = []
 tags = []
 math = true
