@@ -10,6 +10,7 @@ selected = true
 projects = []
 tags = []
 url_preprint = "https://psyarxiv.com/tbm4n"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0010027723001051"
 url_project = "https://github.com/bramleyccslab/computational_constructivism"
 url_demo = "https://eco.ppls.ed.ac.uk/~nbramley/zendo_kas/demo.html"
 url_custom = [{name = "Workshop", url = "https://sassy-2021.github.io"}]

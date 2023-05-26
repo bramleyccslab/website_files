@@ -1,5 +1,5 @@
 +++
-title = "People seek easily interpretable information"
+title = "Limits on information-processing governs active learning in humans"
 date = "2023-03-01"
 publication_types = ["4"]
 publication = "_Proceedings of the 45th Annual Meeting of the Cognitive Science Society_"
