@@ -11,6 +11,7 @@ projects = []
 tags = []
 math = true
 highlight = false
+url_pdf = "https://journals.sagepub.com/doi/10.1177/0956797620957610"
 url_preprint = "/pdfs/ludwinpeery2020broken.pdf"
 url_custom = [{name = "Preregistration", url = "https://osf.io/jsqpd/"}]
 [header]

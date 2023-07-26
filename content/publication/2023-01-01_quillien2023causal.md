@@ -14,6 +14,7 @@ highlight = false
 url_demo = "http://eco.ppls.ed.ac.uk/~tquillie/countenz/"
 url_preprint = "/pdfs/quillien2023causal.pdf"
 url_project = "https://osf.io/cs76p/?view_only=dc55598ae32f492c843e3a2219bd2822"
+url_pdf = "https://escholarship.org/uc/item/1xb9q8wq"
 [header]
 image = ""
 caption = ""

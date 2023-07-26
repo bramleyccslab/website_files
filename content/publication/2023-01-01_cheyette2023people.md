@@ -1,5 +1,5 @@
 +++
-title = "Limits on information-processing governs active learning in humans"
+title = "People seek easily interpretable information"
 date = "2023-03-01"
 publication_types = ["4"]
 publication = "_Proceedings of the 45th Annual Meeting of the Cognitive Science Society_"
@@ -7,6 +7,7 @@ abstract = "Research in psychology and artificial intelligence has sought to gro
 abstract_short = ""
 image_preview = ""
 selected = true
+url_pdf = "https://escholarship.org/uc/item/5sm2b484"
 award = "🏆 Computational Modeling Prize in Higher-level Cognition 🏆"
 projects = []
 tags = []

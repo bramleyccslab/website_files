@@ -35,25 +35,29 @@ tag = "causality, active learning, computation"
   [[params.slogan_columns]]
     title = "About"
     text =  "Bramley Lab is based the school of Philosophy, Psychology and Language Sciences at the University of Edinburgh. We are an interdisciplinary group of cognitive scientists, psychologists, philosophers and computer scientists and one part of a larger Computational Cognitive Science community spanning PPLS and Informatics."
-    link = "https://lucaslab-uoe.github.io/people/"
-    link_text = "More CogSci at Edinburgh"
+      link =  "/research"
+    link_text = "More about our research"
     weight = 1
   
   [[params.slogan_columns]]
     title = "Mission"
     text = "We are interested in understanding the building blocks of human intelligence.  In particular, current lab members focus on *causal cognition, active learning, generalisation, hypothesis generation*, and *control*. We are part funded by an EPSRC New Investigator Award on **Computational Constructivism**."
-    link =  "/research"
-    link_text = "More about our research"
+    link = "https://lucaslab-uoe.github.io/people/"
+    link_text = "More CogSci at Edinburgh"
     weight = 2
 
   [[params.slogan_columns]]
     title = "Approach"
-    text = "We take a computational approach to studying human cognition and the basis of intelligent behaviour.  This typically involves a mixture of running behavioural experiments with adults and children alongside building computational models that synthesise humanlike learning, representation and behaviour."
+    text = "We take a computational approach to studying human cognition and the basis of intelligent behaviour.  This typically involves a combination of behavioural experiments with adults and children and building computational models that synthesise humanlike learning, representation and behaviour."
 
     #using [psiTurk](https://psiturk.org/) and websites like [Amazon mechanical Turk](https://www.mturk.com/) and [Prolific Academic](https://prolific.ac/).  We build and compare computational models and simulations against human data."
     link = "mailto:bramleylab@ed.ac.uk"
     link_text = "Get in touch"
     weight = 3
+
+  # Lab members section
+  [params.members]
+    title = "Lab members"
 
   # Selected Publications section. (NB: Doesn't seem like this is used??)
   [params.publications_selected]
@@ -61,9 +65,7 @@ tag = "causality, active learning, computation"
     title = "Selected Publications"
     subtitle = ""
 
-  # Lab members section
-  [params.members]
-    title = "Lab members"
+
 
 #  [params.demos]
 #    title = "Demos"
@@ -118,8 +120,8 @@ tag = "causality, active learning, computation"
       weight = 1
 
   [[menu.main]]
-      name = "Publications"
-      url = "/publication"
+      name = "Research"
+      url = "/research"
       weight = 2
 
   [[menu.main]]
@@ -128,8 +130,8 @@ tag = "causality, active learning, computation"
       weight = 3
 
   [[menu.main]]
-      name = "Research"
-      url = "/research"
+      name = "Publications"
+      url = "/publication"
       weight = 4
 
  # [[menu.main]]

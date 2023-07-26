@@ -65,9 +65,9 @@ cv_link = "../../cv/neil.pdf"
 +++
 
 <!-- I am a cognitive scientist and Moore-Sloan post-doctoral associate in Todd Gureckis' computation and cognition lab and the Centre for Data Science at New York University.  -->
+A particular focus for me is the role of causality in cognition. How is causal knowledge learned through interactions with a causal world? How is it represented? And how do these representations support inference, thinking and goal directed action? A major lesson from machine learning is that these problems are intractable. Thus, a recurring theme in my work is exploring the mind's solutions to these problems of bounded, limited processing. I typically gather data from human subjects interacting with virtual causal worlds. Unlike standard psychology experiments, I focus on "open-world" tasks in which subjects have some control over their interactions. This allows me to collect revealing individual-level data, using subjects' information gathering behavior as well as their judgments to build detailed models of their individual processing and learning trajectories.
 
-
-I study how people represent the actual world and think about its alternatives, plus how they use these abilities to plan, imagine, explain, blame and solve problems.  I generally use interactive experiments and games combined with computational modelling to investigate these issues.
+<!-- I study how people represent the actual world and think about its alternatives, plus how they use these abilities to plan, imagine, explain, blame and solve problems.  I generally use interactive experiments and games combined with computational modelling to investigate these issues. -->
 
 Much of my research has studied how people use interventions (roughly, actions that "tinker" with causal variables in an environment or system of interest) to learn about relevant causal relationships.  A major output of this work is a theory of incremental, boundedly rational human learning in which wholesale belief change takes place through a sequence of targeted local changes.
 

@@ -6,73 +6,140 @@ interesting_parameter = ""
 
 # Bramley Lab Research
 
-The goal of our research is to better understand the algorithms, processes and representations that underpin human intelligence. We generally approach these issues by developing computational models and comparing them to behavioural data. This involves designing challenging and interactive tasks that distil elements of the challenges faced by natural cognition (see [**Demos**](/demo)) and having people and our models attempt to solve them.  By comparing the behaviour of our models to that of people, we can gain insight into the mechanisms that people use to adapt their behaviour. As well as helping us understand human intelligence, insights from our research can inform the development of artificial systems capable of learning and behaving in more flexible and human-like ways.
+The goal of our research is to better understand the algorithms, processes and representations that underpin human intelligence. We generally approach these issues by developing computational models and comparing them to behavioural data. This involves designing interactive tasks that distil elements of the challenges faced by natural cognition (see [**Demos**](/demo)) and having people and our models attempt to solve them.  By comparing the behaviour of our models to that of people, we can gain insight into the mechanisms that people use to adapt their behaviour. As well as helping us understand human intelligence, insights from our research can inform the development of artificial systems capable of learning and behaving in more flexible and human-like ways.
 
 We are particularly interested in how people succeed at learning in the face of the world's radical complexity.  We explore how people build up complex hypotheses, ideas and [**causal theories**](#causal-cognition) in settings where there are too many, or even an [**infinite number**](#discovery), of possibilities.  A novelty of our research is a focus on [**active learning**](#active-learning), i.e. how people act on the world in service of their learning and control goals.  We investigate this in settings involving a variety of statistical cues from [**contingencies**](#causal-cognition) to continuous [**temporal**](#time-and-causality) and [**spatial dynamics**](#physical-causality).  Going a step further, we are exploring model based [**control**](#control)--i.e. situations where one balance learning a model of the environment with exploiting that model to achieve some goal.
 
 To give you a better sense of some of the basic scientific questions we are interested in, we highlighted below some of our main lines of current research. The lab paper [**archive**](/publication) has a full list of papers with abstracts, pdfs, and links to the experiments, data and other resources.
 
-## Causal cognition
-
-<!-- ![local_causal_inference](../img/research/local_inference.jpg)*Figure 4 from blah blah* -->
-
+{{< details "## &#9660; Causal cognition &#9660;" >}}
 #### Representative publications
 
-Bramley, N. R., Dayan, P., Griffiths, T. L. & Lagnado, D. A. ([2017](../pdfs/bramley2017neurath.pdf)). Formalizing Neurath's ship: Approximate algorithms for online causal learning. *Psychological Review*, Vol 124 (3), 301-338.
+[**How do people generalize causal relations over objects? A non-parametric Bayesian account**](/pdfs/zhao2021causal.pdf). Zhao, B., Lucas, C. G. & Bramley N. R.  *Computational Brain & Behavior*, 5, 22-44  (2021).
 
-McCormack, T., Bramley, N. R., Frosch, C., Patrick, F. & Lagnado, D. A. ([2016](../pdfs/mccormack2016children.pdf)). Children's Use of Interventions to Learn Causal Structure. *Journal of Experimental Child Psychology*. 141, 1-22.
+<img src="../img/research/causal_generalization.png" width="800" style="border:3px solid #000000; padding:3px; margin:5px"/>
 
-Bramley, N. R., Dayan, P. & Lagnado, D. A. ([2015](../pdfs/bramley2015staying.pdf)). Staying afloat on Neurath's boat: Heuristics for sequential causal learning. In *Proceedings of the 37th Annual Meeting of the Cognitive Science Society* (pp. 262-267). Austin, TX: Cognitive Science Society. 
+Bramley, N. R., Lagnado, D. A., & Speekenbrink, M. (2015). [**Conservative forgetful scholars: How people learn causal structure through sequences of interventions**](../pdfs/bramley2015fcs.pdf). *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 41(3), 708.
 
-## Discovery
+<img src="../img/research/causal_learning.png" width="400" style="border:3px solid #000000; padding:3px; margin:5px"/>
 
-<!-- ![grammatical_inference](../img/research/grammar_inference.jpg)*Figure X from blah blah* -->
+Bramley, N. R., Dayan, P., Griffiths, T. L. & Lagnado, D. A. (2017). [**Formalizing Neurath's ship: Approximate algorithms for online causal learning**](../pdfs/bramley2017neurath.pdf). *Psychological Review*, 124 (3), 301-338.
 
-#### Representative publications
+<img src="../img/research/multi_causal_learning.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
 
-Bramley, N. R., Rothe, A., Tenenbaum, J. B., Xu, F. & Gureckis, T. M. ([2018](../pdfs/bramley2018zendo.pdf)). Grounding compositional hypothesis generation in specific instances. In Proceedings of the 40th Annual Meeting of the Cognitive Science Society (pp. 1390-1395). Austin, TX: Cognitive Science Society.
-
-## Active learning
+{{< /details >}}
 
 
-#### Representative publications
-
-Coenen, A., Ruggeri, A., Bramley, N. R. & Gureckis, T. M. ([in press](../pdfs/coeneninrevisionsparsity.pdf)). Testing one or multiple: How beliefs about sparsity affect causal experimentation.  *Journal of Experimental Psychology: Learning, Memory & Cognition*.
-
-Bramley, N. R., Gerstenberg, T., Tenenbaum, J. B. & Gueckis, T. M. ([2018](../pdfs/bramley2018physics.pdf)). Intuitive experimentation in the physical world. *Cognitive Psychology*, 195, 9-38.
-
-Bramley, N. R., Lagnado, D. A. & Speekenbrink, M. ([2015](../pdfs/bramley2015fcs.pdf)). Conservative forgetful scholars: How people learn causal structure through interventions. *Journal of Experimental Psychology: Learning, Memory & Cognition*, Vol 41(3), 708-731. 
-
-## Physical causality
-
-
-![physical_inference](../img/research/physical_inference.jpg)
-
-#### Representative publications
-
-Bramley, N. R., Gerstenberg, T., Tenenbaum, J. B. & Gueckis, T. M. ([2018](../pdfs/bramley2018physics.pdf)). Intuitive experimentation in the physical world. *Cognitive Psychology*, 195, 9-38.
-
-Bramley, N. R., Gerstenberg, T. & Tenenbaum, J. B. ([2016](../pdfs/bramley2016natural.pdf)). Natural Science: Active learning in dynamic physical microworlds. In *Proceedings of the 38th Annual Meeting of the Cognitive Science Society* (pp. 2567 - 2572). Austin, TX: Cognitive Science Society. 
-
-
-## Time and causality
+{{< details "## &#9660; Concept learning &#9660;" >}}
 
 
 #### Representative publications
 
-Bramley, N. R., Gerstenberg, T., Mayrhofer, R. & Lagnado, D. A. ([in press](../pdfs/bramley2018unifying.pdf)). Intervening in time. In Kleinman, S. & Cowles, L. (Eds.) *Time and Causality across the Sciences*. Cambridge University Press.
+Bramley, N. R., Xu, F. (2023). [**Active inductive inference in children and adults: A constructivist perspective**](https://www.sciencedirect.com/science/article/pii/S0010027723001051). *Cognition*, 238, 105471.
 
-Bramley, N. R., Gerstenberg, T., Mayrhofer, R. & Lagnado, D. A. ([2018](../pdfs/bramley2018time.pdf)). Time in causal structure learning. *Journal of Experimental Psychology: Learning, Memory & Cognition*. 
+<img src="../img/research/zendo.png" width="800"  style="border:3px solid #000000; padding:3px; margin:5px"/>
 
-Davis, Z., Bramley, N. R. & Rehder, R. E. ([2018](../pdfs/davis2018continuous.pdf)). Causal structure learning with continuous variables in continuous time. In *Proceedings of the 40th Annual Meeting of the Cognitive Science Society* (pp. 287-292). Austin, TX: Cognitive Science Society.
+Fränken, J.-P., Theodoropoulos, N. C., Bramley,  N. R. (2022). [**Algorithms of Adaptation in Inductive Inference**](https://www.sciencedirect.com/science/article/pii/S0010028522000421). *Cognitive Psychology*, 137, 101506. (2022)
 
-Bramley, N. R., Gerstenberg, T. & Lagnado, D. A ([2014](../pdfs/bramley2014order.pdf)). The order of things: Inferring causal structure from temporal patterns. In *Proceedings of the 36th Annual Meeting of the Cognitive Science Society* (pp. 236-242). Austin, TX: Cognitive Science Society.
+<img src="../img/research/adaptation.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+Zhao, B. Lucas, C. G. & Bramley, N. R. (in press). How cognition bootstraps its way to complex concepts.
+
+<img src="../img/research/bootstrapping.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+{{< /details >}}
 
 
-## Control
+
+{{< details "## &#9660; Active learning &#9660;" >}}
+
 
 #### Representative publications
 
-Davis, Z., Bramley, N. R., Rehder, R. E. & Gureckis, T. M ([2018](../pdfs/davis2018control.pdf)). A causal model approach to dynamic control. In *Proceedings of the 40th Annual Meeting of the Cognitive Science Society* (pp. 281-286). Austin, TX: Cognitive Science Society.
+Gong, T., Gerstenberg, T., Mayrhofer, R., Bramley, N. R. (2023). [**Active Causal Structure Learning in Continuous Time**](https://www.sciencedirect.com/science/article/pii/S0010028522000780). *Cognitive Psychology*, 140, 101542. 
 
-Schulz, E., Klenske, E. D., Bramley, N. R. & Speekenbrink, M. ([2017](../pdfs/schulz2017strategic.pdf)). Strategic exploration in human adaptive control. In *Proceedings of the 39th Annual Meeting of the Cognitive Science* Society. Austin, TX: Cognitive Science Society.
+<img src="../img/research/gong_active_interface.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+Bramley, N.R., Jones, A., Gureckis, T.M. & Ruggeri, A. (2022). [**Children’s failure to control variables may reflect adaptive decision-making**](https://link.springer.com/article/10.3758/s13423-022-02120-1). *Psychonomic Bulletin & Review* 29, 2314–2324.  
+
+<img src="../img/research/adaptive_children.png" width="400"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+Cheyette, S. J., Callaway, F., Bramley, N. R., Nelson, J. D., Tenenbaum, J. B. (2023). [**People seek easily interpretable information**](https://escholarship.org/uc/item/5sm2b484). *Proceedings of the 45th Annual Meeting of the Cognitive Science Society*.
+
+<img src="../img/research/interpretable.png" width="400"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+{{< /details >}}
+
+{{< details "## &#9660; Developmental &#9660;" >}}
+
+
+#### Representative Publications
+
+Bramley, N. R., & Ruggeri, A. (2022). [**Children’s active physical learning is as effective and goal-targeted as adults’**](https://psycnet.apa.org/record/2023-00704-001). *Developmental Psychology*, 58(12), 2310–2321.
+
+<img src="../img/research/children_balls.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+Bramley, N.R., Jones, A., Gureckis, T.M. & Ruggeri, A. (2022). [**Children’s failure to control variables may reflect adaptive decision-making**](https://link.springer.com/article/10.3758/s13423-022-02120-1). *Psychonomic Bulletin & Review* 29, 2314–2324.
+
+<img src="../img/research/magic_box.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+McCormack, T., Bramley, N. R., Frosch, C., Patrick, F. & Lagnado, D. A. (2016). [**Children's Use of Interventions to Learn Causal Structure**](../pdfs/mccormack2016children.pdf). *Journal of Experimental Child Psychology*. 141, 1-22.
+
+<img src="../img/research/spinner_box.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+{{< /details >}}
+
+{{< details "## &#9660; Time and causality &#9660;" >}}
+
+
+#### Representative publications
+
+Gong, T., Gerstenberg, T., Mayrhofer, R., Bramley, N. R. (2023). [**Active Causal Structure Learning in Continuous Time**](https://www.sciencedirect.com/science/article/pii/S0010028522000780). *Cognitive Psychology*, 140, 101542.
+
+<img src="../img/research/time_active.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+Bramley, N. R., Gerstenberg, T., Mayrhofer, R. & Lagnado, D. A. (2018). [**Time in causal structure learning**](../pdfs/bramley2018time.pdf). *Journal of Experimental Psychology: Learning, Memory & Cognition*. 
+
+<img src="../img/research/sab.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+Rehder, R. E., Davis, Z. & Bramley, N. R. (2022). [**The paradox of time in dynamic causal systems**](http://localhost:1313/pdfs/rehder2022paradox.pdf). *Entropy*, , 24, 863.
+
+<img src="../img/research/cea_model.png" width="400"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+{{< /details >}}
+
+{{< details "##  &#9660; Control &#9660;" >}}
+
+#### Representative publications
+
+Davis, Z., Bramley, N. R., Rehder, R. E. & Gureckis, T. M (2018). [**A causal model approach to dynamic control**](../pdfs/davis2018control.pdf). In *Proceedings of the 40th Annual Meeting of the Cognitive Science Society* (pp. 281-286). Austin, TX: Cognitive Science Society.
+
+<img src="../img/research/control_task_davis.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+Schulz, E., Klenske, E. D., Bramley, N. R. & Speekenbrink, M. (2017). [**Strategic exploration in human adaptive control**](../pdfs/schulz2017strategic.pdf). In *Proceedings of the 39th Annual Meeting of the Cognitive Science* Society. Austin, TX: Cognitive Science Society.
+
+<img src="../img/research/control_task_schulz.png" width="400"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+{{< /details >}}
+
+
+
+{{< details "## &#9660; Physical causality &#9660;" >}}
+
+
+#### Representative publications
+
+Bramley, N. R., Gerstenberg, T., Tenenbaum, J. B. & Gueckis, T. M. ([**2018**](../pdfs/bramley2018physics.pdf)). Intuitive experimentation in the physical world. *Cognitive Psychology*, 195, 9-38.
+
+<img src="../img/research/physics_interface.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+Bramley, N. R., & Ruggeri, A. ([**2022**](https://psycnet.apa.org/record/2023-00704-001)). Children’s active physical learning is as effective and goal-targeted as adults’. *Developmental Psychology*, 58(12), 2310–2321.
+
+<img src="../img/research/physics_model.jpg" width="400"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+
+Ethan J. Ludwin-Peery, Neil R. Bramley, Ernest Davis, Todd M. Gureckis (2020) [**Broken physics: A conjunction fallacy effect in intuitive physical reasoning**](https://journals.sagepub.com/doi/10.1177/0956797620957610). *Psychological Science*, 31 (12), 1602-1611.
+
+<img src="../img/research/cf.png" width="400"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+{{< /details >}}
