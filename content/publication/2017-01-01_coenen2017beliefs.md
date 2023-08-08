@@ -12,7 +12,7 @@ tags = []
 url_pdf = "/pdfs/coenen2017beliefs.pdf"
 url_source = ""
 math = true
-highlight = true
+highlight = false
 [header]
 image = ""
 caption = ""

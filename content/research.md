@@ -35,6 +35,11 @@ Bramley, N. R., Dayan, P., Griffiths, T. L. & Lagnado, D. A. (2017). [**Formaliz
 
 #### Representative publications
 
+Zhao, B. Lucas, C. G. & Bramley, N. R. (2023). **How cognition bootstraps its way to complex concepts**. *Nature Human Behavior*
+
+<img src="../img/research/bootstrapping.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
+
+
 Bramley, N. R., Xu, F. (2023). [**Active inductive inference in children and adults: A constructivist perspective**](https://www.sciencedirect.com/science/article/pii/S0010027723001051). *Cognition*, 238, 105471.
 
 <img src="../img/research/zendo.png" width="800"  style="border:3px solid #000000; padding:3px; margin:5px"/>
@@ -43,9 +48,6 @@ Fränken, J.-P., Theodoropoulos, N. C., Bramley,  N. R. (2022). [**Algorithms of
 
 <img src="../img/research/adaptation.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
 
-Zhao, B. Lucas, C. G. & Bramley, N. R. (in press). How cognition bootstraps its way to complex concepts.
-
-<img src="../img/research/bootstrapping.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
 
 {{< /details >}}
 
@@ -129,11 +131,11 @@ Schulz, E., Klenske, E. D., Bramley, N. R. & Speekenbrink, M. (2017). [**Strateg
 
 #### Representative publications
 
-Bramley, N. R., Gerstenberg, T., Tenenbaum, J. B. & Gueckis, T. M. ([**2018**](../pdfs/bramley2018physics.pdf)). Intuitive experimentation in the physical world. *Cognitive Psychology*, 195, 9-38.
+Bramley, N. R., Gerstenberg, T., Tenenbaum, J. B. & Gueckis, T. M. (2018). [**Intuitive experimentation in the physical world**](../pdfs/bramley2018physics.pdf). *Cognitive Psychology*, 195, 9-38.
 
 <img src="../img/research/physics_interface.png" width="500"  style="border:3px solid #000000; padding:3px; margin:5px"/>
 
-Bramley, N. R., & Ruggeri, A. ([**2022**](https://psycnet.apa.org/record/2023-00704-001)). Children’s active physical learning is as effective and goal-targeted as adults’. *Developmental Psychology*, 58(12), 2310–2321.
+Bramley, N. R., & Ruggeri, A. (2022). [**Children’s active physical learning is as effective and goal-targeted as adults’**](https://psycnet.apa.org/record/2023-00704-001)). *Developmental Psychology*, 58(12), 2310–2321.
 
 <img src="../img/research/physics_model.jpg" width="400"  style="border:3px solid #000000; padding:3px; margin:5px"/>
 
