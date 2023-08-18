@@ -10,6 +10,7 @@ short_bio = "Interested in causal generalisation."
 short_name = "Bonan"
 title = "Bonan"
 cv_link = "../../cv/bonan.pdf"
+is_former_member = "True"
 
 [[social]]
     icon = "envelope"
@@ -48,7 +49,7 @@ cv_link = "../../cv/bonan.pdf"
 
 [[organizations]]
     name = "7 George Square, EH8 9JZ"
-    role = "PhD Student"
+    role = "Was PhD Student, now Postdoc at Princeton"
 
 +++
 

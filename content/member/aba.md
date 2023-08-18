@@ -2,13 +2,14 @@
 bio = ""
 date = "2019-08-23T23:33:33+03:00"
 id = "aba"
-sort_position = "1"
+sort_position = "5"
 interests = ["Learning", "Decision Making", "Representation"]
 name = "Aba Szollosi"
 portrait = "/portraits/aba.jpg"
 short_bio = "Interested in learning and decision making."
 short_name = "Aba"
 title = "Aba"
+is_former_member = "True"
 
 [[social]]
     icon = "envelope"
@@ -32,7 +33,7 @@ title = "Aba"
 
 [[organizations]]
 	address = "7 George Square, EH8 9JZ"
-    role = "Postdoc"
+    role = "Was Postdoc"
 
 
 +++

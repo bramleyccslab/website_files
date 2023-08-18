@@ -2,7 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "tianwei"
-sort_position = "3"
+sort_position = "1"
 interests = ["Causality in time","Bounded rationality", "Bayesian inference","Evolution and adaptation"]
 name = "Tianwei Gong"
 portrait = "/portraits/tianwei.jpg"
@@ -48,7 +48,7 @@ cv_link = "../../cv/tianwei.pdf"
 
 [[organizations]]
     name = "Edinburgh University"
-    role = "PhD Student"
+    role = "Postdoc"
 
 +++
 

@@ -2,7 +2,7 @@
 bio = ""
 date = "2019-08-23T23:33:33+03:00"
 id = "ella"
-sort_position = "5"
+sort_position = "3"
 interests = ["Semantics", "Pragmatics", "Acquisition", "Cognitive Modelling" ]
 name = "Ella Markham"
 portrait = "/portraits/ella.jpg"
