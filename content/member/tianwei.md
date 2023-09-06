@@ -34,7 +34,7 @@ cv_link = "../../cv/tianwei.pdf"
 [[education]]
     course = "PhD in Psychology"
     institution = 'University of Edinburgh'
-    year = 2024
+    year = 2023
 
 [[education]]
     course = "MRes in Psychology"
@@ -54,7 +54,7 @@ cv_link = "../../cv/tianwei.pdf"
 
 Hi! You can call me Tia. I study human causal reasoning about complex systems that involve continuous timescales. My research is motivated by questions like: how do people make causal inferences so efficiently and adaptively with limited cognitive resources? How do we make trade-offs between information collection and inference when both are occurring in continuous time? What information do we extract from the large continuous data input? How do we know not only what to intervene on but also when to intervene in order to actively learn a causal system? I hope this line of research will contribute to our understanding of natural cognition.
 
-I am funded directly by a PhD scholarship of School of Philosophy, Psychology and Social Sciences. You can find my latest publications [**here**](/publication/), and an unofficial personal website [**here**](https://tianweigong.github.io/).
+My PhD was funded by a PhD scholarship of School of Philosophy, Psychology and Social Sciences. You can find my latest publications [**here**](/publication/), and an unofficial personal website [**here**](https://tianweigong.github.io/).
 
 <!-- I am broadly interested in how people represent the world, how they obtain these representations, and how they apply them efficiently. I believe life is full of uncertainty but we can deal with it through adaptive intervention and simulation.
 
