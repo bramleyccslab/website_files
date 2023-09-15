@@ -9,11 +9,11 @@ interesting_parameter = ""
 Try to uncover the physical properties of objects in a naturalistic simulated environment by interacting with them in real time.  
 
  
-Experiment 1  [**demo**](https://neilrbramley.com/experiments/apl/e1/demo.html) and [**replays**](https://neilrbramley.com/experiments/apl/e1/replays.html), and 
-Experiment 2 [**replays**](https://neilrbramley.com/experiments/apl/e2/replays.html) 
+Experiment 1  [**demo**](https://neilbramley.github.io/experiments/apl/e1/demo.html) and [**replays**](https://neilbramley.github.io/experiments/apl/e1/replays.html), and 
+Experiment 2 [**replays**](https://neilbramley.github.io/experiments/apl/e2/replays.html) 
 in Bramley, Gerstenberg, Tenenbaum and Gureckis ([2018](../pdfs/bramley2018physics.pdf)).  
 
-[**Pilot task**](http://www.ucl.ac.uk/lagnado-lab/experiments/neil/apl/exp_1/demo.html) in Bramley, Gersttenberg and Tenenbaum ([2016](../pdfs/bramley2016natural))  
+<!-- [**Pilot task**](http://www.ucl.ac.uk/lagnado-lab/experiments/neil/apl/exp_1/demo.html) in Bramley, Gerstenberg and Tenenbaum ([2016](../pdfs/bramley2016natural))   -->
 
 
 ![**physics**](../img/tasks/physics.jpg)*Physics learning task: Interact with coloured pucks in a 2D world bounded by solid walls using the mouse or trackpad.  Try to work out if A or B is heavier, and whether they attract or repel one another.*
@@ -24,7 +24,7 @@ Here are some [**videos**](https://github.com/allenlsj/physics_world_rl/tree/mas
 
 Try to identify a category rule drawn from an infinite compositional hypothesis space.  Based in the tabletop game ZendoTM.
 
-Demo of [**Experiment 1**](https://neilrbramley.com/experiments/zendo/main.html) from Bramley, Rothe, Xu, Tenenbaum and Gureckis ([2018](../pdfs/bramley2018zendo.pdf)).
+Demo of [**Experiment 1**](https://neilbramley.github.io/experiments/zendo/main.html) from Bramley, Rothe, Xu, Tenenbaum and Gureckis ([2018](../pdfs/bramley2018zendo.pdf)).
 
 ![discovery](../img/tasks/discovery.jpg)*Rule discovery task:   Create scenes and test them to see if they follow a rule (yellow stars).  Try and guess the rule that determines which scenes are rule-following (e.g. why 1-2 but not 3-4).*
 
@@ -72,7 +72,7 @@ Create your own interventional causal structure learning scenarios in the
 
 Learn the causal relationships between continuous variables evolving in continous time by manipulating them and observing how they react.  These tasks use a novel generative environment in which a network of Ornstein–Uhlenbeck processes determine the dynamics of several causally related variables.
 
-Demo of [**Experiment 1**](https://neilrbramley.com/experiments/ctcv/demo.html) from Davis, Bramley and Rehder ([2018](../pdfs/davis2018ctcv.pdf))
+Demo of [**Experiment 1**](https://neilbramley.github.io/experiments/ctcv/demo.html) from Davis, Bramley and Rehder ([2018](../pdfs/davis2018ctcv.pdf))
 
 ![ctcv](../img/tasks/ctcv.jpg)*Continuous variable causal learning task: (A) Observing three continuous variables represented by sliders changing in continuous time.  (B) Intervening in the system by moving one of the sliders.  Goal is to use observations and interventions to infer the connections between the variables.*
 
@@ -80,7 +80,7 @@ Demo of [**Experiment 1**](https://neilrbramley.com/experiments/ctcv/demo.html) 
 
 These tasks use the networks developed in Davis, Bramley and Rehder ([2018](pdfs/davis2018ctcv.pdf)) to explore human control.  Try to keep a target variable in a reward region by intervening on a control variable.
 
-Demo of [**Experiment 1**](https://neilrbramley.com/experiments/control/demo.html) from Davis, Bramley, Gureckis and Rehder ([2018](../pdfs/davis2018control.pdf))
+Demo of [**Experiment 1**](https://neilbramley.github.io/experiments/control/demo.html) from Davis, Bramley, Gureckis and Rehder ([2018](../pdfs/davis2018control.pdf))
 
 ![control](../img/tasks/control.jpg)*Causal control task:  Manipulate the control slider [up, down, stay, free] to keep the target slider in the reward region.  The three sliders are connected with a hidden causal network.*
 
