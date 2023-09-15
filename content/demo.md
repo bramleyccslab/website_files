@@ -50,14 +50,18 @@ from Bramley, Lagnado and Speekenbrink ([2015](../pdfs/bramley2015cfs.pdf)).
 Observe and intervene on causal systems in which events occur and cause one another with delays with the goal of identifying the causal relationships.
 
 #### Learning from observation:
+[**Experiments**](https://eco.ppls.ed.ac.uk/~s1940738/demo/diamond/) from Gong & Bramley ([2023](https://www.sciencedirect.com/science/article/pii/S0010027723001646))
 
-[**Experiment 1**](https://www.ucl.ac.uk/lagnado-lab/experiments/neil/cati/cati_2.html): One-shot learning,  
+<!-- [**Experiment 1**](https://www.ucl.ac.uk/lagnado-lab/experiments/neil/cati/cati_2.html): One-shot learning,  
 [**Experiment 2**](https://www.ucl.ac.uk/lagnado-lab/experiments/neil/cati/cati_4.html): Integrating evidence,  
 [**Experiments 3**](https://www.ucl.ac.uk/lagnado-lab/experiments/neil/cati/cati_6/cati_6.html) and
-[**4**](https://www.ucl.ac.uk/lagnado-lab/experiments/neil/cati/cati_6/cati_6.html): Inference from delay information alone.  
-All in Bramley, Gerstenberg, Mayrhofer and Lagnado ([2018](../pdfs/bramley2018time.pdf))
+[**4**](https://www.ucl.ac.uk/lagnado-lab/experiments/neil/cati/cati_6/cati_6.html): Inference from delay information alone. -->  
+<!-- All in Bramley, Gerstenberg, Mayrhofer and Lagnado ([2018](../pdfs/bramley2018time.pdf)) -->
 
 #### Learning through interventions:
+
+[**Experiments**](https://eco.ppls.ed.ac.uk/~s1940738/demo/time_and_intervention/) from Gong, Gerstenberg, Mayrhofer & Bramley ([2023](https://www.sciencedirect.com/science/article/pii/S0010028522000780))
+
 
 [**Experiment 1**](http://neilbramley.github.io/experiments/it/experiment_1/exp1.html) from Bramley, Mayrhofer, Gerstenberg and Langado ([2017](../pdfs/bramley2017dynamic.pdf)).
 
@@ -68,8 +72,6 @@ Create your own interventional causal structure learning scenarios in the
 
 ## Causal learning about continuous variables in time
 
-
-
 Learn the causal relationships between continuous variables evolving in continous time by manipulating them and observing how they react.  These tasks use a novel generative environment in which a network of Ornstein–Uhlenbeck processes determine the dynamics of several causally related variables.
 
 Demo of [**Experiment 1**](https://neilbramley.github.io/experiments/ctcv/demo.html) from Davis, Bramley and Rehder ([2018](../pdfs/davis2018ctcv.pdf))
@@ -79,6 +81,9 @@ Demo of [**Experiment 1**](https://neilbramley.github.io/experiments/ctcv/demo.h
 ## Control
 
 These tasks use the networks developed in Davis, Bramley and Rehder ([2018](pdfs/davis2018ctcv.pdf)) to explore human control.  Try to keep a target variable in a reward region by intervening on a control variable.
+
+[**Experiment**](https://eco.ppls.ed.ac.uk/~s1657612/cdcdiscrete/control_2023.html) by Paulina Weiss, for a publication in prep.
+
 
 Demo of [**Experiment 1**](https://neilbramley.github.io/experiments/control/demo.html) from Davis, Bramley, Gureckis and Rehder ([2018](../pdfs/davis2018control.pdf))
 
