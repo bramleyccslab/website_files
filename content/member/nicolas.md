@@ -19,7 +19,7 @@ cv_link = "../../cv/nicolas.pdf"
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "github.com/navarrenicolas"
+    link = "https://github.com/navarrenicolas"
 
 [[social]]
     icon = "linkedin"
