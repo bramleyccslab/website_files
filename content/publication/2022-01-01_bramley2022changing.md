@@ -10,6 +10,8 @@ selected = true
 projects = []
 tags = []
 url_preprint = "https://psyarxiv.com/9qv5y"
+url_pdf = "https://link.springer.com/article/10.3758/s13423-022-02120-1"
+url_project = "https://github.com/simonvalentin/boed-tutorial"
 math = true
 highlight = true
 [header]
