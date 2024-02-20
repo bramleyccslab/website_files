@@ -33,7 +33,7 @@ is_former_member = "True"
 
 [[organizations]]
 	address = "7 George Square, EH8 9JZ"
-    role = "Was Postdoc"
+    role = "Was Postdoc, now faculty at UNSW"
 
 
 +++
