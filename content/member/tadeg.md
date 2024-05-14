@@ -2,14 +2,14 @@
 bio = ""
 date = "2019-08-23T23:33:33+03:00"
 id = "quillien"
-sort_position = "1"
+sort_position = "2"
 interests = ["Causality", "Evolutionary game theory", "Concepts", "Bayesian inference" ]
 name = "Tadeg Quillien"
 portrait = "/portraits/tadeg.jpg"
 short_bio = "Interested in causality, concepts, and evolutionary biology."
 short_name = "Tadeg"
 title = "Tadeg"
-
+is_former_member = "True"
 
 [[social]]
     icon = "envelope"
@@ -38,7 +38,7 @@ title = "Tadeg"
 
 [[organizations]]
     name = "7 George Square, EH8 9JZ"
-    role = "Postdoc"
+    role = "Was Postdoc, now PPLS Chancellor's Fellow at Edinburgh"
 
 +++
 

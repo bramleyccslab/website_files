@@ -2,7 +2,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "janphilipp"
-sort_position = "3"
+sort_position = "2"
 interests = [ "Representation learning", "Concept learning", "Theory of mind"]
 name = "Jan-Philipp Fränken"
 portrait = "/portraits/janphilipp.jpg"

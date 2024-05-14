@@ -2,7 +2,7 @@
 bio = ""
 date = "2019-08-23T23:33:33+03:00"
 id = "aba"
-sort_position = "5"
+sort_position = "2"
 interests = ["Learning", "Decision Making", "Representation"]
 name = "Aba Szollosi"
 portrait = "/portraits/aba.jpg"
