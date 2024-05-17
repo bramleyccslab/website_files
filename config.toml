@@ -20,7 +20,7 @@ tag = "causality, active learning, computation"
   description = "Computational Cognitive Science Group"
   author = "Neil Bramley"
   name = "Neil Bramley"
-  email = "neil.bramley@ed.ac.uk"
+  email = "bramleylab@ed.ac.uk"
   address = "Room S40, 7 George Square, EH8 9JZ, Scotland"
   phone = "+44 131 651 7112"
   custom_css = ["bramleycustom.css"]
@@ -51,7 +51,7 @@ tag = "causality, active learning, computation"
     text = "We take a computational approach to studying human cognition and the basis of intelligent behaviour.  This typically involves a combination of behavioural experiments with adults and children and building computational models that synthesise humanlike learning, representation and behaviour."
 
     #using [psiTurk](https://psiturk.org/) and websites like [Amazon mechanical Turk](https://www.mturk.com/) and [Prolific Academic](https://prolific.ac/).  We build and compare computational models and simulations against human data."
-    link = "mailto:bramleylab@ed.ac.uk"
+    link = "mailto:neil.bramley@ed.ac.uk"
     link_text = "Get in touch"
     weight = 3
 
