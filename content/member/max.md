@@ -49,7 +49,7 @@ is_former_member = false
 
 [[organizations]]
     name = "Bayes Centre"
-    role = "Affiliated PhD Student"
+    role = "PhD Student"
 
 +++
 

@@ -9,6 +9,7 @@ portrait = "/portraits/simon.jpg"
 short_bio = "Interested in causal structure learning"
 short_name = "Simon"
 title = "Simon"
+is_former_member = true
 
 [[social]]
     icon = "envelope"
@@ -37,7 +38,7 @@ title = "Simon"
 
 [[organizations]]
     name = "10 Crichton St, EH8 9AB"
-    role = "PhD Student"
+    role = "Was PhD Student, now Data Scientist at Amazon"
 
 +++
 

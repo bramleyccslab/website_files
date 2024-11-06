@@ -9,7 +9,7 @@ portrait = "/portraits/tadeg.jpg"
 short_bio = "Interested in causality, concepts, and evolutionary biology."
 short_name = "Tadeg"
 title = "Tadeg"
-is_former_member = "True"
+is_former_member = "true"
 
 [[social]]
     icon = "envelope"
