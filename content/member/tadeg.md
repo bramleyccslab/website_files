@@ -9,7 +9,7 @@ portrait = "/portraits/tadeg.jpg"
 short_bio = "Interested in causality, concepts, and evolutionary biology."
 short_name = "Tadeg"
 title = "Tadeg"
-is_former_member = "true"
+is_former_member = true
 
 [[social]]
     icon = "envelope"
@@ -38,7 +38,7 @@ is_former_member = "true"
 
 [[organizations]]
     name = "7 George Square, EH8 9JZ"
-    role = "Was Postdoc, now PPLS Chancellor's Fellow at Edinburgh"
+    role = "Postdoc (2021-2024), now PPLS Chancellor's Fellow at Edinburgh"
 
 +++
 

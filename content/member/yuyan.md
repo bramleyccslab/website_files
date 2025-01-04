@@ -9,7 +9,7 @@ portrait = "/portraits/yuyan.jpg"
 short_bio = "Interested in decision making and learning."
 short_name = "Yuyan Zhang"
 title = "Yuyan"
-is_former_member = "True"
+is_former_member = true
 
 [[social]]
     icon = "envelope"
@@ -33,7 +33,7 @@ is_former_member = "True"
 
 [[organizations]]
     name = "Edinburgh University"
-    role = "MSc 2020, now senior manager at Amazon Alexa"
+    role = "MSc 2020, now Senior Manager at Amazon Alexa"
 
 +++
 

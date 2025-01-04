@@ -9,7 +9,7 @@ portrait = "/portraits/jonas.jpg"
 short_bio = "Interested in the fusion of Philosophy and Cognitive Science"
 short_name = "Jonas"
 title = "Jonas"
-is_former_member = "True"
+is_former_member = true
 
 [[social]]
     icon = "envelope"

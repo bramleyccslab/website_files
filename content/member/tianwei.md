@@ -10,6 +10,7 @@ short_bio = "Interested in causality and time."
 short_name = "Tia"
 title = "Tia"
 cv_link = "../../cv/tianwei.pdf"
+is_former_member = true
 
 [[social]]
     icon = "envelope"
@@ -48,7 +49,7 @@ cv_link = "../../cv/tianwei.pdf"
 
 [[organizations]]
     name = "Edinburgh University"
-    role = "Postdoc"
+    role = "MScR, PhD, Postdoc (2019-2024), now British Academy Fellow at UCL"
 
 +++
 

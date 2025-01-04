@@ -9,7 +9,7 @@ portrait = "/portraits/aba.jpg"
 short_bio = "Interested in learning and decision making."
 short_name = "Aba"
 title = "Aba"
-is_former_member = "True"
+is_former_member = true
 
 [[social]]
     icon = "envelope"
@@ -33,7 +33,7 @@ is_former_member = "True"
 
 [[organizations]]
 	address = "7 George Square, EH8 9JZ"
-    role = "Was Postdoc, now faculty at UNSW"
+    role = "Postdoc (2021-2023), now Faculty at UNSW"
 
 
 +++

@@ -38,7 +38,7 @@ is_former_member = true
 
 [[organizations]]
     name = "10 Crichton St, EH8 9AB"
-    role = "Was PhD Student, now Data Scientist at Amazon"
+    role = "PhD (2020-2024), now Data Scientist at Amazon"
 
 +++
 

@@ -9,7 +9,7 @@ portrait = "/portraits/tobias.jpg"
 short_bio = "I'm interested in how people learn by themselves and in social settings"
 short_name = "Tobias"
 title = "Tobias"
-is_former_member = "True"
+is_former_member = true
 
 [[social]]
     icon = "envelope"
