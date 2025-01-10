@@ -10,6 +10,7 @@ short_bio = "Interested in modelling psychiatric disorders and behavioural inter
 short_name = "Vlad"
 title = "Vlad"
 cv_link = "../../cv/vlad.pdf"
+is_former_member = true
 
 [[social]]
     icon = "envelope"

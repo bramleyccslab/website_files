@@ -10,6 +10,7 @@ short_bio = "Interested in (Deep) Reinforcement learning."
 short_name = "Héctor"
 title = "Hector"
 cv_link = "../../cv/hector.pdf"
+is_former_member = true
 
 [[social]]
     icon = "envelope"
@@ -37,7 +38,7 @@ cv_link = "../../cv/hector.pdf"
     year = 2017
 
 [[organizations]]
-    role = "Research Associate"
+    role = "Research Associate (2019-2021) now Data Scientist at Tourlane"
 
 +++
 

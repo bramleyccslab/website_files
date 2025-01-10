@@ -9,7 +9,6 @@ portrait = "/portraits/janphilipp.jpg"
 short_bio = "Interested in representation learning and concept learning."
 short_name = "Jan-Philipp"
 title = "Philipp"
-cv_link = "../../cv/janphilipp.pdf"
 is_former_member = true
 
 [[social]]
@@ -29,6 +28,11 @@ is_former_member = true
 
 
 [[education]]
+ course = "Postdoc"
+ institution = 'Stanford'
+ year = 2024
+
+[[education]]
  course = "PhD in Psychology"
  institution = 'University of Edinburgh'
  year = 2022
@@ -45,7 +49,7 @@ is_former_member = true
 
 [[organizations]]
     name = "7 George Square, EH8 9JZ"
-    role = "PhD (2019-2022), now Postdoc at Stanford"
+    role = "PhD (2019-2022), now at DeepMind"
 
 +++
 
@@ -55,8 +59,5 @@ is_former_member = true
 Hi! I am a third-year PhD Student at The University of Edinburgh, working in the Computational Cognitive Science Lab with Neil Bramley and Chris Lucas. I currently work on representation and concept learning. A representative recent work can be found [**here**](https://www.sciencedirect.com/science/article/pii/S0010028522000421).
 
 Prior to joining The University of Edinburgh, I pursued a Master's degree in Cognitive and Decision Sciences from University College London working with David Lagnado's Causal Cognition Lab. During my time in London, I was also part of the Computational Neuroscience & Psychiatry Group where I collaborated with Dimitris Pinotsis (City, University of London) and Alan Jasanoff (MIT).
-
-
-Please check my [**personal website**](https://janphilippfranken.github.io/) for updates.
 
 <!-- You can write $\LaTeX$ and *Markdown* here. -->
