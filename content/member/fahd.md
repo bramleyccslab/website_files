@@ -3,7 +3,7 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "fahdyazin"
-sort_position = "5"
+sort_position = "4"
 interests = ["Cognitive Neuroscience", "Simulation-Based Inference", "Naturalistic Stimuli"]
 name = "Fahd Yazin"
 portrait = "/portraits/fahd.jpg"

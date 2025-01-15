@@ -58,7 +58,7 @@ cv_link = "../../cv/neil.pdf"
     year = 2009   
 
 [[organizations]]
-    address = "Room S2, 7 George Square, EH8 9JZ Tel:01316504643"
+    address = "Room S40, 7 George Square, EH8 9JZ Tel:01316504643"
     role = "Principal Investigator"
 
 
