@@ -1,17 +1,17 @@
 +++
-title = "Guesses as compressed probability distributions"
-date = "submitted"
+title = "Lossy encoding of distributions in judgment under uncertainty"
+date = "2025-06-01"
 publication_types = ["1"]
-publication = "_Under Submission_"
-abstract = "People often make judgments about uncertain facts and events, for example `Germany will win the world cup'. Here we present a rational analysis of these judgments: we argue that a guess functions as a compressed encoding of the speaker's subjective probability distribution over relevant possibilities. So, a statement like `X will happen' encodes information not only about the probability of X but also, implicitly, about the probability of other possible outcomes. We test formal computational models derived from our theory, showing in four experiments that they accurately predict how people make and interpret guesses. Our account naturally explains why people dislike vacuously-correct guesses (like `Some country will win the world cup'), and it might shed light on apparently sub-optimal patterns of judgment such as the conjunction fallacy."
+publication = "_Cognitive Psychology_"
+abstract = "People often make judgments about uncertain facts and events, for example 'Germany will win the world cup'. Judgment under uncertainty is often studied with reference to a normative ideal according to which people should make guesses that have a high probability of being correct. According to this normative ideal, you should say that Germany will win the world cup if you think that Germany is in fact likely to win. We argue that in many cases, judgment under uncertainty is instead best conceived of as an act of lossy compression, where the goal is to efficiently encode a probability distribution, rather than express the probability of a single outcome. We test formal computational models derived from our theory, showing in four experiments that they accurately predict how people make and interpret guesses. Our account naturally explains why people dislike vacuously-correct guesses (like 'Some country will win the world cup'), and sheds light on apparently sub-optimal patterns of judgment such as the conjunction fallacy."
+url_preprint = "https://osf.io/preprints/psyarxiv/gy2fv_v3"
 abstract_short = ""
 image_preview = ""
-selected = false
+selected = true
 projects = []
 tags = []
 math = true
 highlight = false
-url_preprint = "https://osf.io/preprints/psyarxiv/gy2fv/"
 [header]
 image = ""
 caption = ""

@@ -120,8 +120,8 @@ tag = "causality, active learning, computation"
       weight = 1
 
   [[menu.main]]
-      name = "Research"
-      url = "/research"
+      name = "Publications"
+      url = "/publication"
       weight = 2
 
   [[menu.main]]
@@ -130,8 +130,8 @@ tag = "causality, active learning, computation"
       weight = 3
 
   [[menu.main]]
-      name = "Publications"
-      url = "/publication"
+      name = "Research"
+      url = "/research"
       weight = 4
 
  # [[menu.main]]
