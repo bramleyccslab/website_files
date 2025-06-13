@@ -9,14 +9,27 @@
         </div>
        
         <!-- Members -->
-        <div class="row">
-            {{ range (sort (where .Data.Pages "Type" "member") ".Params.sort_position")}}
+        <!-- <div class="row">
+            {{ range (sort (where .Site.Pages "Type" "member") ".Params.sort_position")}}
                 {{ if not .Params.is_former_member }}
                     {{ partial "member_simple" . }}
                 {{ end }}
             {{ end }}
-        </div>
-        
+            
+        </div> -->
+        {{ $members := sort (where .Site.RegularPages "Type" "member") ".Params.sort_position" }}
+            {{ $members := where $members ".Params.is_former_member" "!=" true }}
+            {{ $colsPerRow := 6 }}
+            {{ range $i, $member := $members }}
+                {{ if eq (mod $i $colsPerRow) 0 }}
+                    <div class="row">
+                {{ end }}
+                {{ partial "member_simple" $member }}
+                {{ if or (eq (mod (add $i 1) $colsPerRow) 0) (eq (add $i 1) (len $members)) }}
+                    </div>
+            {{ end }}
+        {{ end }}
+
         <!-- Link to all members -->
         <div>
             <h3 class="view-all">
