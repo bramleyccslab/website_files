@@ -2,13 +2,12 @@ layoutdir = "themes/hugo-academic-group/layouts"
 publishdir = "public"
 static = "/static"
 builddrafts = false
-baseurl = "https://www.bramleylab.ppls.ed.ac.uk/"
+baseURL = "https://www.bramleylab.ppls.ed.ac.uk/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Bramley Computational Cognitive Science Lab"
 math = true
 copyright = "&copy; Neil Bramley, 2018."
-
 
 
 [taxonomies]
@@ -160,3 +159,8 @@ tag = "causality, active learning, computation"
       name = "Contact"
       url = "#contact"
       weight = 7
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

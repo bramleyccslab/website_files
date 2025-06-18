@@ -9,14 +9,26 @@
         </div>
        
         <!-- Alumni -->
-        <div class="row">
-            {{ range (sort (where .Data.Pages "Type" "member") ".Params.sort_position")}}
+        <!-- <div class="row">
+            {{ range (sort (where .Site.Pages "Type" "member") ".Params.sort_position")}}
                 {{ if .Params.is_former_member }}
                     {{ partial "alumni_simple" . }}
                 {{ end }}
             {{ end }}
-        </div>
+        </div> -->
         
+        {{ $alumni := sort (where .Site.RegularPages "Type" "member") ".Params.sort_position" }}
+            {{ $alumni := where $alumni ".Params.is_former_member" true }}
+            {{ $colsPerRow := 6 }}
+            {{ range $i, $alum := $alumni }}
+                {{ if eq (mod $i $colsPerRow) 0 }}
+                    <div class="row">
+                {{ end }}
+                {{ partial "alumni_simple" $alum }}
+                {{ if or (eq (mod (add $i 1) $colsPerRow) 0) (eq (add $i 1) (len $alumni)) }}
+                    </div>
+            {{ end }}
+        {{ end }}
 
     </div>
 </section>

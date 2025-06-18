@@ -4,15 +4,6 @@
 
 Install [hugo](https://gohugo.io/getting-started/installing/).
 
-N.b. this project works with hugo version 0.55.1, not compatibale with the latest version of hugo.
-
-Mac users with homebrew can use the command below.
-
-```
-brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/817ed69007a47e178e0033ae62c054b7bea2ed86/Formula/hugo.rb
-```
-
-If the above method does not work for you - e.g. you need the most updated version of hugo to build other sites, try searching for how to [Install Specific Version Hugo](https://datacenterjourney.com/2021/install-specific-version-hugo-macos/).
 
 ## Update the website
 
