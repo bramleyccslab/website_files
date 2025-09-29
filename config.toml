@@ -28,7 +28,7 @@ tag = "causality, active learning, computation"
   slogan_text = "Computational Cognitive Science Group at the University of Edinburgh"
 
   [params.logo]
-    image = "img/logo.png"
+    image = "img/lab_logo_comb.png"
     link = "https://www.ed.ac.uk/ppls"
 
   [[params.slogan_columns]]
