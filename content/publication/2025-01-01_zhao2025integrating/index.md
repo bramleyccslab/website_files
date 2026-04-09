@@ -1,5 +1,5 @@
 +++
-title = "Integrating Specialist Judgments With and Without Mentalizing"
+title = "Integrating specialist judgments with and without mentalizing"
 date = "2025-01-01"
 publication_types = [ "2" ]
 publication = "_Proceedings of the 47th Annual Meeting of the Cognitive Science Society_"

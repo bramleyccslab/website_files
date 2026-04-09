@@ -18,12 +18,12 @@ image = ""
 caption = ""
 
 [[authors]]
-name = "Yu He"
+name = "Xiangying He"
 is_member = true
 
 [[authors]]
 name = "Bonan Zhao"
-is_member = false
+is_member = true
 
 [[authors]]
 name = "Neil R. Bramley"

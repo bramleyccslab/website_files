@@ -7,6 +7,7 @@ abstract = "Cognitive science can help us understand which explanations people m
 abstract_short = ""
 image_preview = ""
 selected = false
+url_pdf = "/pdfs/gyevnar2025people.pdf"
 url_preprint = "https://arxiv.org/abs/2403.08828"
 projects = [ ]
 tags = [ ]
