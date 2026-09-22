@@ -54,7 +54,7 @@ year = 2_015
 
 [[organizations]]
 name = "7 George Square, EH8 9JZ"
-role = "PhD (2019-2023), now Postdoc at Princeton"
+role = "PhD (2019-2023), Postdoc at Princeton, now Informatics Faculty"
 +++
 <!-- You can write $\LaTeX$ and *Markdown* here. -->
 

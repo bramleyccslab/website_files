@@ -13,6 +13,7 @@ portrait = "/portraits/fahd.jpg"
 short_bio = "Life is intractable, even though it appears otherwise."
 short_name = "Fahd"
 title = "Fahd"
+is_former_member = true
 
 [[social]]
 icon = "google-scholar"

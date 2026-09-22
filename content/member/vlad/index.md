@@ -30,7 +30,7 @@ year = 2_023
 
 [[organizations]]
 name = "7 George Square, EH8 9JZ"
-role = "Undergraduate Research Assistant"
+role = "Undergraduate Research Assistant, Now Data Scientist at Accelarate People"
 +++
 <!-- You can write $\LaTeX$ and *Markdown* here. -->
 

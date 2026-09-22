@@ -13,6 +13,7 @@ portrait = "/portraits/ruaridh.jpg"
 short_bio = "Interested in human-robot collaboration."
 short_name = "Ruaridh Mon-Williams"
 title = "Ruaridh"
+is_former_member = true
 
 [[social]]
 icon = "envelope"
@@ -36,7 +37,7 @@ year = 2_021
 
 [[organizations]]
 name = "Bayes Centre"
-role = "PhD Student"
+role = "PhD Student, now Broad Institute in Boston (AI for disease research)"
 +++
 <!-- You can write $\LaTeX$ and *Markdown* here. -->
 

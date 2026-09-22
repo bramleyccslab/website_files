@@ -14,7 +14,7 @@ portrait = "/portraits/haozhe.jpg"
 short_bio = "Interested in concept learning."
 short_name = "Haozhe"
 title = "Haozhe"
-is_former_member = false
+is_former_member = true
 
 [[social]]
 icon = "envelope"
