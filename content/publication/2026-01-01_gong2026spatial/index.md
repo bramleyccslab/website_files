@@ -22,10 +22,6 @@ name = "Tianwei Gong"
 is_member = true
 
 [[authors]]
-name = "Robert D. McIntosh"
-is_member = false
-
-[[authors]]
 name = "Bonan Zhao"
 is_member = true
 
@@ -35,6 +31,10 @@ is_member = true
 
 [[authors]]
 name = "Christopher G. Lucas"
+is_member = false
+
+[[authors]]
+name = "Robert D. McIntosh"
 is_member = false
 +++
 
